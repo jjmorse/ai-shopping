@@ -8,6 +8,7 @@ AI-assisted shopping research. Each thing I want to buy gets a list entry and, w
 lists/*.yaml            Structured data: items, status, budget, price options. One file per list.
 research/<category>/    Markdown notes: reasoning and recommendation per item or product family.
 templates/              Copy these to start a new list or research note.
+scripts/                Helpers: validate.py (schema check), report.py (best offer per item).
 CLAUDE.md               Conventions for AI agents working in this repo.
 ```
 
@@ -34,4 +35,11 @@ See [`templates/list.yaml`](templates/list.yaml) for the full annotated schema. 
 - Prices in USD, numbers not strings. `unit` + `unit_qty` let tools compute price per kg/oz/count.
 - Every option has `url` and `checked` (YYYY-MM-DD).
 - YAML is source of truth for prices and status; markdown is for reasoning. Don't duplicate price tables in notes.
-- Schema is tool-ready: future scripts (price refresh, report) can read `lists/*.yaml` without changes.
+
+## Scripts
+
+```
+pip install -r requirements.txt
+python3 scripts/validate.py          # schema check for lists/*.yaml
+python3 scripts/report.py            # markdown table: best offer + unit price per item, flags stale prices
+```
