@@ -3,5 +3,353 @@ title: Black Friday 2026
 source: https://ourgroceries.com/s/eb8ec6SkBqNyBbDGxL8tjB
 updated: 2026-11-26
 
-# Items to be imported from OurGroceries by the Black Friday research thread.
-items: []
+# Imported from OurGroceries 2026-11-26. Items already crossed off there
+# (3D Printer, Pull up bar, washer and dryer) are omitted.
+# Prices come from deal sites/retailer pages read 2026-11-26; verify at checkout.
+
+items:
+  - id: sony-headphones
+    name: Sony headphones
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [over-ear, ANC]
+    research: research/black-friday/headphones.md
+    options:
+      - product: Sony WH-1000XM6
+        store: Amazon
+        price: 348.00
+        regular_price: 459.99
+        url: https://www.amazon.com/dp/B0F3PQHWTZ
+        checked: 2026-11-26
+        sale_ends: null
+        notes: All colors $348; lowest tracked on Amazon, not called record low.
+      - product: Sony WH-1000XM4C
+        store: Amazon
+        price: 198.00
+        regular_price: 300.00
+        url: https://www.amazon.com/dp/B0HFB8N519
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Amazon all-time low per 9to5Toys.
+      - product: Sony 1000X (The Collexion)
+        store: Amazon
+        price: 548.00
+        regular_price: 650.00
+        url: https://www.amazon.com/dp/B0GW9MBZJ9
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Premium line.
+    pick: null
+
+  - id: over-ear-headphones
+    name: Over-ear headphones
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [over-ear]
+    research: research/black-friday/headphones.md
+    options:
+      - product: Bose QuietComfort Headphones
+        store: Amazon
+        price: 169.00
+        regular_price: 349.00
+        url: https://www.amazon.com/dp/B0CCZ1SQ8G
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Not QC Ultra.
+      - product: JBL Tour One M3
+        store: Amazon
+        price: 149.95
+        regular_price: 399.95
+        url: https://www.amazon.com/dp/B0F4RT7HFT
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Lowest Amazon price per SoundGuys.
+      - product: Beats Studio Pro (Light Blue)
+        store: Amazon
+        price: 139.95
+        regular_price: 349.00
+        url: https://www.amazon.com/dp/B0H7Z164PJ
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Amazon-exclusive color.
+    pick: null
+
+  - id: induction-range
+    name: Induction range
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [30-inch, induction]
+    research: research/black-friday/induction-range.md
+    options:
+      - product: Frigidaire Gallery 30" freestanding induction, air fry, total convection
+        store: Home Depot
+        price: 849.00
+        regular_price: 1599.00
+        url: https://www.dealnews.com/products/Frigidaire/Frigidaire-Gallery-Free-Standing-Induction-Range-w-Air-Fry-Total-Convection/553932.html
+        checked: 2026-11-26
+        sale_ends: 2026-12-02
+        notes: Price in cart; DealNews says $200 under next best. Likely GCFI3060BF (unconfirmed).
+      - product: LG 4-piece induction kitchen package (range LSIL6334XE)
+        store: Yale Appliance
+        price: 3546.00
+        regular_price: 7796.00
+        url: https://www.yaleappliance.com/product/lg-4-piece-induction-kitchen-package-lg-4pc-siir-fd-2501119
+        checked: 2026-11-26
+        sale_ends: 2026-12-02
+        notes: Full package price after $1,300 mail-in rebates; only if replacing whole kitchen.
+    pick: null
+
+  - id: microwave
+    name: Microwave
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/microwave.md
+    options:
+      - product: LG 1.8 cu ft over-the-range smart microwave, black stainless
+        store: Best Buy
+        price: 318.99
+        regular_price: 549.99
+        url: https://www.bestbuy.com/product/lg-1-8-cu-ft-over-the-range-smart-microwave-with-sensor-cooking-and-easyclean-black-stainless-steel/J7G5658L4H
+        checked: 2026-11-26
+        sale_ends: 2026-11-28
+        notes: Over-the-range.
+      - product: Insignia 0.7 cu ft compact microwave, black
+        store: Best Buy
+        price: 59.99
+        regular_price: 89.99
+        url: https://www.bestbuy.com/product/insignia-7-cu-ft-compact-microwave-black/J2FPJKSY3Q
+        checked: 2026-11-26
+        sale_ends: 2026-11-28
+        notes: Countertop, small.
+    pick: null
+
+  - id: litter-robot
+    name: Litter-Robot
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/litter-robot.md
+    options:
+      - product: Litter-Robot 4 Starter Bundle
+        store: Whisker
+        price: 813.00
+        regular_price: 963.00
+        url: https://www.whisker.com/bundles
+        checked: 2026-11-26
+        sale_ends: null
+        notes: MeowTested saw $763 in cart via partner link.
+      - product: Litter-Robot 5 Starter Bundle
+        store: Whisker
+        price: 933.00
+        regular_price: 1083.00
+        url: https://www.whisker.com/bundles
+        checked: 2026-11-26
+        sale_ends: null
+        notes: MeowTested saw $883 in cart via partner link.
+      - product: Litter-Robot 4, reconditioned
+        store: Whisker
+        price: 664.00
+        regular_price: 699.00
+        url: https://www.whisker.com/bundles
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Bare new LR4 is $699 (no cut).
+    pick: null
+
+  - id: exercise-bike
+    name: Exercise bike?
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/exercise-bike.md
+    options:
+      - product: Peloton Original Bike+, refurbished
+        store: Peloton
+        price: 995.00
+        regular_price: 1395.00
+        url: https://www.onepeloton.com/offers
+        checked: 2026-11-26
+        sale_ends: null
+        notes: All-Access membership required; no free month on refurb.
+      - product: Peloton Cross Training Bike
+        store: Peloton
+        price: 1295.00
+        regular_price: 1695.00
+        url: https://www.onepeloton.com/offers
+        checked: 2026-11-26
+        sale_ends: null
+        notes: 1 free membership month; 0% APR 36 mo.
+    pick: null
+
+  - id: phone-controller
+    name: Phone controller
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [USB-C]
+    research: research/black-friday/phone-controller.md
+    options:
+      - product: Backbone Pro
+        store: Amazon
+        price: 119.99
+        regular_price: 169.99
+        url: https://link.amazon/B0eOfvgrN
+        checked: 2026-11-26
+        sale_ends: null
+        notes: All-time low; USB-C + Bluetooth; iPhone 15+/Android.
+      - product: Razer Kishi V3
+        store: Amazon
+        price: 59.99
+        regular_price: 99.99
+        url: https://www.amazon.com/dp/B0F233Y5YL
+        checked: 2026-11-26
+        sale_ends: null
+        notes: $1 above all-time low.
+      - product: Backbone One (2nd gen)
+        store: Amazon
+        price: 59.99
+        regular_price: null
+        url: https://link.amazon/B0ekG5Sgi
+        checked: 2026-11-26
+        sale_ends: null
+        notes: "From $60."
+    pick: null
+
+  - id: domain-transfer
+    name: Domain transfer
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [.com]
+    research: research/black-friday/domain-transfer.md
+    options:
+      - product: .com transfer (1 yr), code THEGAMESDTR26
+        store: Namecheap
+        price: 10.98
+        regular_price: null
+        url: https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday.aspx
+        checked: 2026-11-26
+        sale_ends: 2026-12-04
+        notes: Plus ICANN fee; renews $19.98. Code from third-party blog, unverified.
+      - product: .com transfer (at cost)
+        store: Cloudflare Registrar
+        price: 11.17
+        regular_price: 11.17
+        url: https://www.cloudflare.com/products/registrar/
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Renews at cost $11.17; no sale needed.
+    pick: null
+
+  - id: trailer-lock
+    name: Trailer lock
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: null
+    options:
+      - product: CURT Universal Tri-Ball Coupler Lock 23082
+        store: Tractor Supply
+        price: 22.49
+        regular_price: 24.99
+        url: https://www.tractorsupply.com/tsc/product/curt-universal-tri-ball-trailer-coupler-lock-fits-1-7-8-in-2-in-2-5-16-in-23082-2002011
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Fits 1-7/8, 2, 2-5/16 couplers.
+      - product: CURT Rebellion XD Tongue and Hitch Lock Set 45932
+        store: Tractor Supply
+        price: 58.49
+        regular_price: 64.99
+        url: https://www.tractorsupply.com/tsc/product/curt-rebellion-xd-tongue-and-hitch-lock-set-45932-2002548
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Coupler + receiver pin lock set.
+    pick: null
+
+  - id: socks
+    name: Socks
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: null
+    options:
+      - product: Bombas (sitewide, e.g. Men's Marl Ankle 12-pack)
+        store: Bombas via Rakuten
+        price: 139.20
+        regular_price: 174.00
+        url: https://www.rakuten.com/black-friday/store/bombas
+        checked: 2026-11-26
+        sale_ends: null
+        notes: ~10-20% off packs + 2% Rakuten cash back.
+    pick: null
+
+  - id: slipper-socks
+    name: Slipper socks
+    qty: 1
+    category: black-friday
+    status: todo
+    budget: null
+    must_have: []
+    research: null
+    options: []
+    pick: null
+
+  - id: dust-buster
+    name: Dust buster
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [cordless]
+    research: null
+    options:
+      - product: Black+Decker Dustbuster
+        store: Amazon
+        price: 39.99
+        regular_price: null
+        url: https://www.amazon.com/dp/B01DAI5CF6
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Price from Sep 2025 article; 2026 price not confirmed.
+    pick: null
+
+  - id: hose
+    name: Hose
+    qty: 1
+    category: black-friday
+    status: todo
+    budget: null
+    must_have: []
+    research: null
+    options: []
+    pick: null
+
+  - id: anti-sway-hitch
+    name: Anti-sway hitch
+    qty: 1
+    category: black-friday
+    status: todo
+    budget: null
+    must_have: [weight distribution, sway control]
+    research: null
+    options: []
+    pick: null
