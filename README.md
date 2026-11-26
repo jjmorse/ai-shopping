@@ -5,18 +5,18 @@ AI-assisted shopping research. Each thing I want to buy gets a list entry and, w
 ## Layout
 
 ```
-lists/                  Shopping lists (what to buy). One file per list.
-research/<category>/    One note per item or product family (what to buy, where, why).
+lists/*.yaml            Structured data: items, status, budget, price options. One file per list.
+research/<category>/    Markdown notes: reasoning and recommendation per item or product family.
 templates/              Copy these to start a new list or research note.
 CLAUDE.md               Conventions for AI agents working in this repo.
 ```
 
 ## Workflow
 
-1. **Capture** — add items to a list in `lists/` (or point an agent at a source list, e.g. OurGroceries).
-2. **Research** — for each item worth comparing, an agent copies `templates/research.md` into `research/<category>/<item>.md` and fills it: requirements, options, prices with source links and check dates, recommendation.
-3. **Decide** — review the note, mark the list item `decided` / `bought` / `skip`.
-4. **Refresh** — prices go stale fast. Re-check before buying; update the `Checked` date.
+1. **Capture** — add items to a list in `lists/<list>.yaml` (or point an agent at a source list, e.g. OurGroceries).
+2. **Research** — agent adds price offers to the item's `options:` in YAML (with `url` + `checked` date), and for items worth comparing writes `research/<category>/<item>.md` from `templates/research.md` with the reasoning and recommendation.
+3. **Decide** — review, set `status` and `pick` in YAML.
+4. **Refresh** — prices go stale fast. Re-check before buying; update `checked`.
 
 ## Status values
 
@@ -24,5 +24,14 @@ CLAUDE.md               Conventions for AI agents working in this repo.
 
 ## Current lists
 
-- [Black Friday 2026](lists/black-friday-2026.md)
-- [3D printing filament](lists/filament.md)
+- [Black Friday 2026](lists/black-friday-2026.yaml)
+- [3D printing filament](lists/filament.yaml)
+
+## Data format
+
+See [`templates/list.yaml`](templates/list.yaml) for the full annotated schema. Key rules:
+
+- Prices in USD, numbers not strings. `unit` + `unit_qty` let tools compute price per kg/oz/count.
+- Every option has `url` and `checked` (YYYY-MM-DD).
+- YAML is source of truth for prices and status; markdown is for reasoning. Don't duplicate price tables in notes.
+- Schema is tool-ready: future scripts (price refresh, report) can read `lists/*.yaml` without changes.

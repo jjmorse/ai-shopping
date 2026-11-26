@@ -1,18 +1,15 @@
 # <Item>
 
-Status: researching
+Data: [`lists/<list>.yaml`](../../lists/<list>.yaml) → item `<item-id>`
 Checked: YYYY-MM-DD
-List: [<list>](../../lists/<list>.md)
 
 ## Need
 
 What it's for, must-haves, nice-to-haves, budget.
 
-## Options
+## Options summary
 
-| Option | Store | Price | Unit price | Sale ends | Link |
-|--------|-------|-------|------------|-----------|------|
-|        |       |       |            |           |      |
+Prices live in the YAML `options:` block. Summarize the tradeoffs here.
 
 ## Recommendation
 
