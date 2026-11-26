@@ -12,7 +12,7 @@ items:
     name: Sony headphones
     qty: 1
     category: black-friday
-    status: researching
+    status: bought
     budget: null
     must_have: [over-ear, ANC]
     research: research/black-friday/headphones.md
@@ -41,7 +41,15 @@ items:
         checked: 2026-11-26
         sale_ends: null
         notes: Premium line.
-    pick: null
+      - product: Sony WH-1000XM4C, refurbished
+        store: (Josh's purchase)
+        price: 120.00
+        regular_price: 300.00
+        url: https://www.amazon.com/dp/B0HFB8N519
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Bought by Josh 2026-11-26 (refurb). URL is new-unit listing for reference.
+    pick: Sony WH-1000XM4C, refurbished
 
   - id: over-ear-headphones
     name: Over-ear headphones
@@ -111,27 +119,34 @@ items:
     category: black-friday
     status: researching
     budget: null
-    must_have: []
+    must_have: [over-the-range, low-profile]
     research: research/black-friday/microwave.md
     options:
-      - product: LG 1.8 cu ft over-the-range smart microwave, black stainless
+      - product: Whirlpool 1.1 cu ft Low Profile OTR microwave hood combo, hidden controls, stainless
         store: Best Buy
-        price: 318.99
-        regular_price: 549.99
-        url: https://www.bestbuy.com/product/lg-1-8-cu-ft-over-the-range-smart-microwave-with-sensor-cooking-and-easyclean-black-stainless-steel/J7G5658L4H
+        price: 399.99
+        regular_price: 659.99
+        url: https://www.bestbuy.com/product/whirlpool-1-1-cu-ft-low-profile-over-the-range-microwave-hood-combination-with-hidden-control-panel-stainless-steel/J3KHV8H784
         checked: 2026-11-26
         sale_ends: 2026-11-28
-        notes: Over-the-range.
-      - product: Insignia 0.7 cu ft compact microwave, black
+        notes: 4.6 stars / 2,348 reviews. Regular is Best Buy "comp. value".
+      - product: GE Profile 1.2 cu ft OTR, sensor cooking, low profile, stainless
         store: Best Buy
-        price: 59.99
-        regular_price: 89.99
-        url: https://www.bestbuy.com/product/insignia-7-cu-ft-compact-microwave-black/J2FPJKSY3Q
+        price: 459.99
+        regular_price: 548.99
+        url: https://www.bestbuy.com/product/ge-profile-1-2-cu-ft-over-the-range-microwave-with-sensor-cooking-and-low-profile-design-stainless-steel/J7645SGTJJ
         checked: 2026-11-26
-        sale_ends: 2026-11-28
-        notes: Countertop, small.
+        sale_ends: null
+        notes: Sensor cooking; delivery ~Dec 13.
+      - product: KitchenAid 1.1 cu ft Low Profile OTR smart, sensor, dual fan, stainless
+        store: Best Buy
+        price: 659.99
+        regular_price: 944.99
+        url: https://www.bestbuy.com/product/kitchenaid-1-1-cu-ft-low-profile-over-the-range-smart-microwave-with-sensor-cooking-and-dual-fan-ventilation-stainless-steel-fingerprint-resistant/J3KHVG3PQR
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Premium; 4.4 stars / 19 reviews.
     pick: null
-
   - id: litter-robot
     name: Litter-Robot
     qty: 1
@@ -262,57 +277,94 @@ items:
     category: black-friday
     status: researching
     budget: null
-    must_have: []
-    research: null
+    must_have: [high-security, hard to defeat]
+    research: research/black-friday/trailer-lock.md
     options:
-      - product: CURT Universal Tri-Ball Coupler Lock 23082
-        store: Tractor Supply
-        price: 22.49
-        regular_price: 24.99
-        url: https://www.tractorsupply.com/tsc/product/curt-universal-tri-ball-trailer-coupler-lock-fits-1-7-8-in-2-in-2-5-16-in-23082-2002011
+      - product: Proven Industries Model 2516 coupler lock (trigger/thumb latch couplers)
+        store: Proven Industries
+        price: 250.00
+        regular_price: 250.00
+        url: https://www.provenlocks.com/search?q=coupler+lock
         checked: 2026-11-26
         sale_ends: null
-        notes: Fits 1-7/8, 2, 2-5/16 couplers.
-      - product: CURT Rebellion XD Tongue and Hitch Lock Set 45932
-        store: Tractor Supply
-        price: 58.49
-        regular_price: 64.99
-        url: https://www.tractorsupply.com/tsc/product/curt-rebellion-xd-tongue-and-hitch-lock-set-45932-2002548
+        notes: No Black Friday sale seen. Fit is coupler-specific; check model guide.
+      - product: Proven Industries Model 2178 coupler lock (A-frame & straight couplers)
+        store: Proven Industries
+        price: 250.00
+        regular_price: 250.00
+        url: https://www.provenlocks.com/search?q=coupler+lock
         checked: 2026-11-26
         sale_ends: null
-        notes: Coupler + receiver pin lock set.
+        notes: Fits most couplers per Proven.
+      - product: Trimax UMAX100 universal coupler lock
+        store: Amazon
+        price: 0
+        regular_price: null
+        url: https://www.thedrive.com/reviews/29183/best-trailer-hitch-locks
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Mid-tier fallback; price not confirmed (0 = unknown).
     pick: null
-
   - id: socks
     name: Socks
     qty: 1
     category: black-friday
     status: researching
     budget: null
-    must_have: []
+    must_have: [100% cotton, black]
     research: null
     options:
-      - product: Bombas (sitewide, e.g. Men's Marl Ankle 12-pack)
-        store: Bombas via Rakuten
-        price: 139.20
-        regular_price: 174.00
-        url: https://www.rakuten.com/black-friday/store/bombas
+      - product: Sock Snob 12-pair men's 100% cotton ribbed dress socks
+        store: Walmart
+        price: 0
+        regular_price: null
+        url: https://www.walmart.com/ip/1925187781
         checked: 2026-11-26
         sale_ends: null
-        notes: ~10-20% off packs + 2% Rakuten cash back.
+        notes: True 100% cotton (rare). Price not shown; black appeared out of stock 2026-11-26.
+      - product: Sock Snob 6-pair men's cotton non-elastic wide-top dress socks
+        store: Walmart
+        price: 0
+        regular_price: null
+        url: https://www.walmart.com/ip/Sock-Snob-6-Pairs-Mens-Breathable-Cotton-Non-Elastic-Loose-Wide-Top-Dress-Socks/2485680787
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Price not confirmed; verify fiber content.
     pick: null
-
   - id: slipper-socks
     name: Slipper socks
     qty: 1
     category: black-friday
-    status: todo
+    status: researching
     budget: null
-    must_have: []
+    must_have: [Acorn brand]
     research: null
-    options: []
+    options:
+      - product: Acorn The Original Slipper Sock, Charcoal Ragg Wool
+        store: Acorn
+        price: 45.50
+        regular_price: 65.00
+        url: https://www.acorn.com/collections/12-days-of-cozy-savings/products/the-original-acorn-slipper-sock
+        checked: 2026-11-26
+        sale_ends: null
+        notes: 30% off direct.
+      - product: Acorn Slipper Sock
+        store: Campmor
+        price: 31.20
+        regular_price: 52.00
+        url: https://www.campmor.com/collections/acorn/product_slipper-socks
+        checked: 2026-11-26
+        sale_ends: null
+        notes: 40% off; check size/color stock.
+      - product: Acorn Versafit Fleece Sock
+        store: Acorn
+        price: 17.50
+        regular_price: 25.00
+        url: https://www.acorn.com/collections/acorns-best/products/versafit-socks
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Lighter fleece version.
     pick: null
-
   - id: dust-buster
     name: Dust buster
     qty: 1

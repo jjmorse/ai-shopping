@@ -19,6 +19,10 @@ List has both "sony headphones" and "over neck headphones" (read as over-ear). M
 **Runner-up:** Sony WH-1000XM4C at $198; for a second cheaper pair, Bose QC at $169.  
 **Why:** XM6 is the best-reviewed over-ear ANC; XM4C gets most of it for ~$150 less at a record low.
 
+## Update 2026-11-26
+
+Josh bought a refurbished Sony WH-1000XM4C for $120. `over-ear-headphones` still open (may mean neckband "over neck"; confirm).
+
 ## Notes
 
 Sources: [SoundGuys BF audio deals](https://www.soundguys.com/best-black-friday-audio-deals-of-2026-166200/), [9to5Toys Sony deals](https://9to5toys.com/2026/11/19/sony-black-friday-headphone-deals1000xm6-1000xm4c/). No WH-1000XM5, Bose QC Ultra, or Sennheiser deals found on those pages.

@@ -5,19 +5,20 @@ Checked: 2026-11-26
 
 ## Need
 
-Type unknown (over-the-range vs countertop). If range is replaced, consider matching OTR microwave/vent.
+Low-profile over-the-range (OTR) microwave (~10" tall, more cooktop clearance). Pairs with a range swap.
 
 ## Options summary
 
-- LG 1.8 cu ft OTR smart, $319 (reg $550), Best Buy, ends Nov 28.
-- Insignia 0.7 cu ft countertop $60 (reg $90).
+- Whirlpool 1.1 cu ft Low Profile hood combo $400 (comp. value $660), Best Buy BF deal to Nov 28. 4.6★ on 2,348 reviews.
+- GE Profile 1.2 cu ft low profile, sensor cooking, $460 (comp. $549).
+- KitchenAid 1.1 cu ft low profile smart $660 (comp. $945).
 
 ## Recommendation
 
-**Buy:** LG 1.8 cu ft OTR at $319 if over-the-range.  
-**Runner-up:** Insignia compact at $60 for countertop.  
-**Why:** LG is 42% off and pairs with a range swap; other OTR discounts at Best Buy were small.
+**Buy:** Whirlpool 1.1 cu ft Low Profile at $400.  
+**Runner-up:** GE Profile 1.2 cu ft at $460 if sensor cooking matters.  
+**Why:** Biggest discount, by far the most reviews, lowest price for the form factor.
 
 ## Notes
 
-Source: [Best Buy BF microwaves](https://www.bestbuy.com/site/shop/black-friday-microwaves).
+Source: [Best Buy search](https://www.bestbuy.com/site/searchpage.jsp?st=low+profile+over+the+range+microwave). Low-profile units trade capacity (1.1–1.3 cu ft) and venting for clearance; confirm 30" width and cabinet mounting. Best Buy "comp. value" isn't always a real past price. LG MVEF1323F (1.3 cu ft) also exists; no price found.
