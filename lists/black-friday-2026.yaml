@@ -52,40 +52,23 @@ items:
     pick: Sony WH-1000XM4C, refurbished
 
   - id: over-ear-headphones
-    name: Over-ear headphones
+    name: Over-neck (neckband) headphones
     qty: 1
     category: black-friday
     status: researching
     budget: null
-    must_have: [over-ear]
+    must_have: [neckband style, replaces Mpow]
     research: research/black-friday/headphones.md
     options:
-      - product: Bose QuietComfort Headphones
+      - product: Sony WI-C100 wireless neckband
         store: Amazon
-        price: 169.00
-        regular_price: 349.00
-        url: https://www.amazon.com/dp/B0CCZ1SQ8G
+        price: 23.00
+        regular_price: null
+        url: https://slickdeals.net/f/19838670-sony-wi-c100-wireless-in-ear-bluetooth-neckband-headphones-w-mic-black-23-00-free-shipping-w-prime-or-on-35
         checked: 2026-11-26
         sale_ends: null
-        notes: Not QC Ultra.
-      - product: JBL Tour One M3
-        store: Amazon
-        price: 149.95
-        regular_price: 399.95
-        url: https://www.amazon.com/dp/B0F4RT7HFT
-        checked: 2026-11-26
-        sale_ends: null
-        notes: Lowest Amazon price per SoundGuys.
-      - product: Beats Studio Pro (Light Blue)
-        store: Amazon
-        price: 139.95
-        regular_price: 349.00
-        url: https://www.amazon.com/dp/B0H7Z164PJ
-        checked: 2026-11-26
-        sale_ends: null
-        notes: Amazon-exclusive color.
+        notes: Price from Oct 2026 Prime Day deal; current BF price unconfirmed.
     pick: null
-
   - id: induction-range
     name: Induction range
     qty: 1
@@ -277,33 +260,25 @@ items:
     category: black-friday
     status: researching
     budget: null
-    must_have: [high-security, hard to defeat]
+    must_have: [high-security, fits 2in Atwood-style yoke coupler (Escape 21NE)]
     research: research/black-friday/trailer-lock.md
     options:
-      - product: Proven Industries Model 2516 coupler lock (trigger/thumb latch couplers)
-        store: Proven Industries
-        price: 250.00
-        regular_price: 250.00
-        url: https://www.provenlocks.com/search?q=coupler+lock
-        checked: 2026-11-26
-        sale_ends: null
-        notes: No Black Friday sale seen. Fit is coupler-specific; check model guide.
-      - product: Proven Industries Model 2178 coupler lock (A-frame & straight couplers)
-        store: Proven Industries
-        price: 250.00
-        regular_price: 250.00
-        url: https://www.provenlocks.com/search?q=coupler+lock
-        checked: 2026-11-26
-        sale_ends: null
-        notes: Fits most couplers per Proven.
-      - product: Trimax UMAX100 universal coupler lock
-        store: Amazon
+      - product: Blaylock TL-33 universal coupler lock
+        store: Walmart
         price: 0
         regular_price: null
-        url: https://www.thedrive.com/reviews/29183/best-trailer-hitch-locks
+        url: https://www.walmart.com/ip/122154847
         checked: 2026-11-26
         sale_ends: null
-        notes: Mid-tier fallback; price not confirmed (0 = unknown).
+        notes: US-made, fits Atwood 2in A-frame per etrailer Q&A. Price not confirmed (0 = unknown).
+      - product: Proven Industries Model 2178-A (2in couplers)
+        store: Proven Industries
+        price: 250.00
+        regular_price: 250.00
+        url: https://www.provenlocks.com/search?q=coupler+lock
+        checked: 2026-11-26
+        sale_ends: null
+        notes: Escape owners' usual pick, but see research note re McNally lawsuit and shim bypass of their pin lock.
     pick: null
   - id: socks
     name: Socks
@@ -311,25 +286,29 @@ items:
     category: black-friday
     status: researching
     budget: null
-    must_have: [100% cotton, black]
+    must_have: [black, crew, mostly cotton]
     research: null
     options:
-      - product: Sock Snob 12-pair men's 100% cotton ribbed dress socks
+      - product: Hanes Ultimate Men's Crew Socks 12-pack, black, 6-12
         store: Walmart
-        price: 0
+        price: 31.08
         regular_price: null
-        url: https://www.walmart.com/ip/1925187781
+        unit: count
+        unit_qty: 12
+        url: https://www.walmart.com/ip/616029218
         checked: 2026-11-26
         sale_ends: null
-        notes: True 100% cotton (rare). Price not shown; black appeared out of stock 2026-11-26.
-      - product: Sock Snob 6-pair men's cotton non-elastic wide-top dress socks
+        notes: ~$2.59/pair. Listed 100% cotton but description mentions spandex; mostly cotton.
+      - product: Hanes Double Tough Crew 12-pack, black
         store: Walmart
-        price: 0
+        price: 12.73
         regular_price: null
-        url: https://www.walmart.com/ip/Sock-Snob-6-Pairs-Mens-Breathable-Cotton-Non-Elastic-Loose-Wide-Top-Dress-Socks/2485680787
+        unit: count
+        unit_qty: 12
+        url: https://slickdeals.net/f/19214092-hanes-men-s-double-tough-durability-crew-socks-12-pack-in-white-or-black-12-98-walmart-size-6-12-or-12-14-large-feet-same-price
         checked: 2026-11-26
         sale_ends: null
-        notes: Price not confirmed; verify fiber content.
+        notes: ~$1.06/pair. Cotton blend, % not stated; verify cotton majority.
     pick: null
   - id: slipper-socks
     name: Slipper socks
@@ -348,14 +327,6 @@ items:
         checked: 2026-11-26
         sale_ends: null
         notes: 30% off direct.
-      - product: Acorn Slipper Sock
-        store: Campmor
-        price: 31.20
-        regular_price: 52.00
-        url: https://www.campmor.com/collections/acorn/product_slipper-socks
-        checked: 2026-11-26
-        sale_ends: null
-        notes: 40% off; check size/color stock.
       - product: Acorn Versafit Fleece Sock
         store: Acorn
         price: 17.50

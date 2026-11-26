@@ -21,7 +21,7 @@ List has both "sony headphones" and "over neck headphones" (read as over-ear). M
 
 ## Update 2026-11-26
 
-Josh bought a refurbished Sony WH-1000XM4C for $120. `over-ear-headphones` still open (may mean neckband "over neck"; confirm).
+Josh bought a refurbished Sony WH-1000XM4C for $120. `over-ear-headphones` is actually a neckband ("over neck") set to replace an aging Mpow. Budget pick: Sony WI-C100 (~$23 Oct 2026). RTINGS ranks Sony WI-1000XM2 best neckband but it is discontinued.
 
 ## Notes
 
