@@ -16,7 +16,7 @@ Transfer existing domain(s) (assumed .com). Transfers add 1 year of registration
 ## Recommendation
 
 **Buy:** Transfer to Cloudflare Registrar.  
-**Runner-up:** Porkbun ($11.81) if not using Cloudflare DNS.  
+**Runner-up:** Porkbun ($11.81, renews same) if you want to keep your own DNS; check its BF event page for a Nov 27 .com drop (last year $7 first year).  
 **Why:** BF transfer discounts save <$1 but Namecheap renewal is ~$9/yr more. Cloudflare requires using its DNS.
 
 ## Notes

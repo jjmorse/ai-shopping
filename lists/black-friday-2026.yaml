@@ -244,6 +244,14 @@ items:
         checked: 2026-11-26
         sale_ends: 2026-12-04
         notes: Plus ICANN fee; renews $19.98. Code from third-party blog, unverified.
+      - product: .com transfer (1 yr)
+        store: Porkbun
+        price: 11.81
+        regular_price: 11.81
+        url: https://porkbun.com/event/blackfriday
+        checked: 2026-11-27
+        sale_ends: 2026-12-04
+        notes: Price seen ~Nov 24; new BF deals drop Nov 27. Renews $11.81. Free WHOIS privacy, any DNS.
       - product: .com transfer (at cost)
         store: Cloudflare Registrar
         price: 11.17
