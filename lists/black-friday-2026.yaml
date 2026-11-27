@@ -57,9 +57,17 @@ items:
     category: black-friday
     status: researching
     budget: null
-    must_have: [neckband style, full multipoint, no ANC]
+    must_have: [collar neckband, long battery, physical controls, no ANC]
     research: research/black-friday/headphones.md
     options:
+      - product: DEWALT Heavy Duty Bluetooth Neckband (Yellow; Black $49.99)
+        store: Amazon
+        price: 52.24
+        regular_price: 65.30
+        url: https://www.amazon.com/dp/B09ZK2QWD1
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Sold by Amazon, BF deal. Collar, 30h+, IPX6, magnetic buds, no ANC, 4.3/5,272. Button strip on left pod (photo). Multipoint not listed.
       - product: LG TONE Style HBS-SL5 (renewed)
         store: Amazon
         price: 0
@@ -76,7 +84,7 @@ items:
         checked: 2026-11-27
         sale_ends: null
         notes: 4.1 stars / 15.3K ratings; no multipoint.
-    pick: null
+    pick: DEWALT Heavy Duty Bluetooth Neckband
   - id: induction-range
     name: Induction range
     qty: 1
