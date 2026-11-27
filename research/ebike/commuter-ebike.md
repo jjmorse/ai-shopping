@@ -91,6 +91,15 @@ has spare batteries in stock and better support anecdotes.
   but battery swaps can take weeks-months. Slickdeals owners: slow but helpful support. Reddit not reachable
   from this session; only secondhand "horror stories" mention.
 
+## Other vendors (checked 2026-11-27)
+
+- Upway certified refurb Level 4 REC $1,549 (size S only, 3 mi); 1-yr Upway warranty instead of 2-yr.
+- Mike's Bikes: Level 4 REC $1,799 same as direct, ends 11/30, + up to $400 store rewards.
+- Velotric: Breeze 1 $1,699 with free spare battery (best spare-battery value seen); Discover 3 $1,899.
+  3-yr warranty with registration. Repair record not researched yet.
+- REI sale page showed no ebikes under $2k.
+- Aventon/Upway "Re-Frame" trade-in at Aventon Signature Dealers ($200 bonus was 2025; 2026 unconfirmed).
+
 ## Before buying
 
 - Confirm a nearby shop on Aventon's dealer locator will service it (some shops only service what they sell).

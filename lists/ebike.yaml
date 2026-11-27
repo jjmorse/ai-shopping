@@ -67,4 +67,34 @@ items:
         checked: 2026-11-27
         sale_ends: null
         notes: "Heybike page shows $1,499 + BF free gift box; no discount visible. 9to5Toys/EBR (affiliate) advertise $999 with codes 9T5T500 / EBR500 - unverified on retailer page, try at checkout. 680Wh removable (per PopSci), Shimano Altus 8, hydraulic 180mm, 50 lb. 2-yr limited warranty (direct only; page also says frame/motor/controller/display covered only 1 week - ambiguous). No Venus spare battery listed. Heybike admitted 2024 support backlog and 10-20 day parts waits 'due to stock issues'."
+      - product: Aventon Level 4 REC, certified refurbished (size S, 3 mi, 2026)
+        store: Upway
+        price: 1549.00
+        regular_price: 1999.00
+        unit: count
+        unit_qty: 1
+        url: https://upway.co/products/aventon-level-4-rec-rk8sm2
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Only one, size S only (check fit). Battery 'Excellent', light scratches. Upway 1-yr warranty + 14-day test ride (not Aventon's 2-yr). $250 under new."
+      - product: Aventon Level 4 REC (step-over L in stock; step-through M/L)
+        store: Mike's Bikes
+        price: 1799.00
+        regular_price: 1999.00
+        unit: count
+        unit_qty: 1
+        url: https://mikesbikes.com/collections/bikes/products/aventon-level-4-rec-ebike-2027
+        checked: 2026-11-27
+        sale_ends: 2026-11-30
+        notes: "Same price as Aventon direct; step-over M sold out. Rewards up to $400 on $250+ spend through 11/30 (store credit, not cash). CA-based chain; shipping to CO not confirmed."
+      - product: Velotric Breeze 1 (cruiser/commuter) + free spare battery
+        store: Velotric
+        price: 1699.00
+        regular_price: 1799.00
+        unit: count
+        unit_qty: 1
+        url: https://www.velotricbike.com/collections/ebikes-on-sale
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "In stock. Free battery + mirror. Velotric warranty 2 yr + 1 yr free with registration. Also Discover 3 commuter $1,899 (free bag/mirror), Tempo $1,399. Removable battery + specs not verified on model pages. Codes can't combine; BF pricing online only."
     pick: null
