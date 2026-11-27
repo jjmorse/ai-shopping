@@ -274,7 +274,7 @@ items:
     name: Trailer lock
     qty: 1
     category: black-friday
-    status: researching
+    status: skip
     budget: null
     must_have: [high-security, fits 2in Atwood-style yoke coupler (Escape 21NE)]
     research: research/black-friday/trailer-lock.md
