@@ -136,6 +136,36 @@ items:
     must_have: [1.75 mm, compatible with Bambu X2D]
     research: research/3d-printing/filament.md
     options:
+      - product: Elegoo PLA Black 4 x 1 kg
+        store: Amazon
+        price: 36.52
+        regular_price: 42.96
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0BV24T11D
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, in stock. 4.7 stars, 2,065 ratings. All black."
+      - product: Elegoo PLA+ 4 x 1 kg (Black, White, Grey, Space Grey)
+        store: Amazon
+        price: 36.76
+        regular_price: 45.99
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0H15CZF12
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, in stock. 4.6 stars, 2,320 ratings. Only 1 kg black."
+      - product: Sunlu PLA+ 4 x 1 kg (Black, White, Grey, Transparent)
+        store: Amazon
+        price: 35.48
+        regular_price: 45.99
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0DYXV8XYZ
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, 365-day low, in stock. 4.6 stars, 2,151 ratings. All-black 4-pack variant $39.70."
       - product: Elegoo PLA 10 kg bundle, Black
         store: Elegoo US
         price: 89.99
