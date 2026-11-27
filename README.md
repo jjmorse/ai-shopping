@@ -28,6 +28,18 @@ CLAUDE.md               Conventions for AI agents working in this repo.
 - [Black Friday 2026](lists/black-friday-2026.yaml)
 - [3D printing filament](lists/filament.yaml)
 
+## 3D-printing research
+
+- [Filament choices, confirmed supply, and reusable spools](research/3d-printing/filament-context.md)
+- [Current silk and black PLA deal research](research/3d-printing/filament.md)
+- [Black PLA comparison](research/3d-printing/black-pla.md)
+- [Filament provider evidence and working tiers](research/3d-printing/filament-providers.md)
+- [Flexible TPU choice](research/3d-printing/tpu.md)
+- [X2D setup, nozzles, and purchase lessons](research/3d-printing/x2d.md)
+- [Board-game organizer shortlist and magnets](research/3d-printing/board-game-organizers.md)
+
+Imported conversation research is dated when recorded and distinguishes confirmed ownership from an uncompleted or unconfirmed checkout. Historical snapshots are not newly verified offers.
+
 ## Data format
 
 See [`templates/list.yaml`](templates/list.yaml) for the full annotated schema. Key rules:
@@ -35,6 +47,7 @@ See [`templates/list.yaml`](templates/list.yaml) for the full annotated schema. 
 - Prices in USD, numbers not strings. `unit` + `unit_qty` let tools compute price per kg/oz/count.
 - Every option has `url` and `checked` (YYYY-MM-DD).
 - YAML is source of truth for prices and status; markdown is for reasoning. Don't duplicate price tables in notes.
+- Optional `inventory` and `price_history` sections preserve confirmed supply and earlier checkout observations. Historical entries state their price basis and observation uncertainty; they are excluded from the current-offer report. Only put freshly verified candidate offers in `options` with their actual `checked` date.
 
 ## Scripts
 

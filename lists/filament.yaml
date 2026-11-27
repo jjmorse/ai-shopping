@@ -1,8 +1,92 @@
 list: filament
 title: 3D printing filament
 source: null
-updated: 2026-11-26
+updated: 2026-11-27
 printer: Bambu X2D
+inventory_notes: Confirmed ownership and earlier checkout observations are preserved below; a checkout screenshot alone does not confirm a purchase. Historical prices are not current offers.
+
+inventory:
+  - product: Kingroon HS PLA, 10 kg mixed colors
+    status: bought
+    unit: kg
+    unit_qty: 10
+    colors: [white, gray, black, red, blue, yellow, purple, green, pink, teal]
+    notes: Josh explicitly confirmed ordering this pack. No brown or orange. Black prints well but looks charcoal compared with some other black objects.
+  - product: Kingroon PETG, 10 kg mixed colors
+    status: checkout_seen_purchase_unconfirmed
+    unit: kg
+    unit_qty: 10
+    notes: Final checkout shown; do not assume payment completed or add these colors to confirmed inventory.
+
+# Earlier conversation snapshots, imported 2026-11-27. Exact observation dates were not retained; these are not checked-today offers and are intentionally excluded from options/report.py.
+price_history:
+  - product: Kingroon HS PLA, 10 kg mixed colors
+    store: AliExpress
+    price: 54.37
+    unit: kg
+    unit_qty: 10
+    basis: Delivered checkout total including discount and tax
+    observed: November 2026 conversation; exact date unknown
+    url: null
+    notes: Purchase confirmed by Josh; exact HS listing URL not retained.
+  - product: Kingroon PETG, 10 kg mixed colors
+    store: AliExpress
+    price: 50.70
+    unit: kg
+    unit_qty: 10
+    basis: Delivered checkout total including discount and tax
+    observed: November 2026 conversation; exact date unknown
+    url: https://slickdeals.net/f/20238585-10-pk-1kg-kingroon-1-75mm-petg-3d-printer-filament-mix-color-48-60-free-s-h
+    notes: Deal discussion link; exact retailer listing not retained. Purchase completion unconfirmed.
+  - product: Bambu TPU 95A HF, black 51100, 1 kg with spool
+    store: Bambu US
+    price: 25.19
+    unit: kg
+    unit_qty: 1
+    coupon: 25.00
+    shipping: 6.99
+    tax: 0.60
+    checkout_total: 7.78
+    basis: Item price before coupon, shipping, and tax; checkout_total is separate
+    observed: November 2026 conversation; exact date unknown
+    url: https://us.store.bambulab.com/products/tpu-95a-hf
+    notes: Preferred purchase direction; checkout shown but payment not confirmed. Do not assume the coupon remains usable.
+  - product: Bambu PLA Silk+, silver, 1 kg with spool
+    store: Bambu US
+    price: 14.24
+    unit: kg
+    unit_qty: 1
+    basis: Item price in an earlier bulk-discount cart, excluding order coupon, shipping, and tax
+    observed: November 2026 conversation; exact date unknown
+    url: null
+    notes: Historical cart only; exact product URL not retained, no purchase confirmation or current price verification.
+  - product: Bambu PETG Translucent, clear, 1 kg refill
+    store: Bambu US
+    price: 11.99
+    unit: kg
+    unit_qty: 1
+    basis: Item price in an earlier bulk-discount cart, excluding order coupon, shipping, and tax
+    observed: November 2026 conversation; exact date unknown
+    url: https://us.store.bambulab.com/products/petg-translucent
+    notes: Refill needs a compatible empty spool; historical cart only.
+  - product: Elegoo standard PLA, black, 1 kg
+    store: Amazon
+    price: 12.59
+    unit: kg
+    unit_qty: 1
+    basis: Item price before tax in comparison cart
+    observed: November 2026 conversation; exact date unknown
+    url: null
+    notes: Exact ASIN not retained; cart shown, payment unconfirmed.
+  - product: Sunlu standard PLA, black, 1 kg
+    store: Amazon
+    price: 13.99
+    unit: kg
+    unit_qty: 1
+    basis: Item price before tax in comparison cart
+    observed: November 2026 conversation; exact date unknown
+    url: null
+    notes: Exact ASIN not retained; cart shown, payment unconfirmed.
 
 items:
   - id: silk-pla-silver
@@ -247,4 +331,40 @@ items:
         sale_ends: 2026-12-02
         notes: "Matte finish. Bulk tiers up to 30% off."
     pick: null
+    notes: Kingroon HS black already works; this entry is for comparing darker blacks. Sunlu and Elegoo standard black were in a comparison cart, but purchase completion is unconfirmed.
+
+  - id: petg-clear
+    name: PETG, clear/translucent
+    qty: 1
+    category: 3d-printing
+    status: researching
+    budget: null
+    must_have: [1.75 mm, compatible with Bambu X2D, rigid translucent material]
+    research: research/3d-printing/filament-context.md
+    options: []
+    pick: null
+
+  - id: tpu-black
+    name: TPU, black, flexible
+    qty: 1
+    category: 3d-printing
+    status: decided
+    budget: null
+    must_have: [1.75 mm, external-feed compatible, flexible rather than rigid]
+    research: research/3d-printing/tpu.md
+    options: []
+    pick: Bambu TPU 95A HF, black, 1 kg with spool
+    notes: Josh chose to hold off on extra nozzles and favor this material. Checkout was shown with the PayPal coupon; purchase completion still needs confirmation.
+
+  - id: pla-brown
+    name: PLA, brown
+    qty: 1
+    category: 3d-printing
+    status: researching
+    budget: null
+    must_have: [1.75 mm, compatible with Bambu X2D]
+    research: research/3d-printing/filament-context.md
+    options: []
+    pick: null
+    notes: Missing from the Kingroon HS mixed pack. Bambu dark brown matte refill was considered; no purchase confirmed. Wood-filled PLA was discussed but is optional.
 

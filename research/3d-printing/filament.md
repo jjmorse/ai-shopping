@@ -3,6 +3,8 @@
 Data: [`lists/filament.yaml`](../../lists/filament.yaml) → items `silk-pla-silver`, `silk-pla-gold`, `pla-black`
 Checked: 2026-11-27
 
+Related context: [existing supply, material choices, and prior checkout history](filament-context.md), [black-shade comparison](black-pla.md), and [supplier evidence](filament-providers.md). This note preserves the newer deal research from PR #2; the linked context was imported separately and does not refresh its offers. Before choosing a bulk black offer, distinguish restocking from testing a darker shade: the Kingroon HS black already works, and its shade was the concern in the earlier conversation.
+
 ## Need
 
 Printer: Bambu X2D with AMS. 1.75 mm. Silk silver and silk gold for decorative prints, plus restock of black PLA. Qty and budget not set yet.
