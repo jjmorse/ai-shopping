@@ -37,24 +37,29 @@ Prices/links live in the YAML. All checked 2026-11-27 via page fetch (Chrome ext
 | Warranty | 2 yr + lifetime frame | Trek dealer warranty | 1 yr | 1 yr |
 | Service | 2,000+ partner shops | Trek dealers (local stock not checked) | Mail-order parts only | Mail-order parts only |
 
-## Recommendation
+## Recommendation (revised 2026-11-27 after deep dive)
 
-**Buy:** Aventon Level 4 REC, $1,799.
-**Runner-up:** Trek FX+ 2 Stagger, $1,599.93 — if local shop service matters more than battery/range.
+**Buy:** Velotric Discover 3, $1,899 — if a step-through frame is OK.
+**Runner-up:** Aventon Level 4 REC, $1,799.
 **Cheapest solid pick:** Lectric XP4 750, $1,299 (folding).
 
-**Why Aventon:** best mix of the repairability signals at this budget — removable name-brand-cell battery
-with a spare sold by the brand, Shimano/Tektro parts any shop can service, the longest warranty here
-(2 yr), and a 2,000+ shop service network so you're not stuck with mail-order diagnosis. Aventon is still
-launching new lines (Current, 2026), unlike Rad. Company finances not verified.
+**Why Velotric moved ahead:**
+- Warranty: battery + electrical 3 yr (free with registration in 60 days; battery 3 yr/400 cycles), frame 10 yr.
+  Aventon: 2 yr.
+- Parts continuity: Discover 2 and 3 batteries interchangeable (after firmware update); spare battery sold.
+- Local service: Longmont Bicycle Company is a Velotric showcase shop (110 Emery St, Longmont; 303-834-9994).
+- Owner reports (EBR forum, 2024): one documented display failure — Velotric shipped a new display in ~3 days.
+  Older 2023 Discover 1 complaints (brake adapter, cheap BB) not seen on newer models. Thin data.
+- No CPSC recalls found for Velotric.
 
-**Why Trek is runner-up, not winner:** Trek is the safest company and Trek has the widest dealer network, but the
-FX+ 2 motor/battery are Trek-proprietary, the 250Wh battery is small and listed as integrated (harder to
-bring inside in winter), and "Stagger" is the low step frame — check photos vs. what you want. A non-stagger
-FX+ 2 price wasn't found on sale.
-
-**Lectric:** biggest DTC brand (it spun out Monarc and rescued Juiced, per Electrek), cheap $350 spare
-battery, owners report good customer service — but 1-yr warranty, no shops, 20" folding frame, 71 lb.
+**Why Aventon dropped to runner-up:** the Level 4 REC runs Aventon's full ACU platform — 4G, GPS, electronic
+lock, password display, app-managed firmware/security (Aventon's own REC-vs-ADV guide: REC gets "the same
+platform"). More connected electronics = more single-source failure points. EBR thread (May–Oct 2026): one
+Level 4 ADV owner's ECU failed twice (E34 init failure, then ~20 errors at 1,655 mi); dealer couldn't fix,
+Aventon eventually swapped the whole bike after weeks waiting on inventory. One owner, ADV not REC, but same
+ACU. Aventon's only CPSC recall: Sinch.2 (2024, controller software, fixed free at dealers). Upside remains:
+2,000+ shops, CyclErie (Erie, CO) sells/services Aventon, $100 cheaper, step-over frame available.
+Caveat: Velotric's own app/lock electronics not checked; may have similar connected parts.
 
 ## Evidence quality (say plainly)
 
