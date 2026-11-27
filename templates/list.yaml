@@ -1,0 +1,28 @@
+# Shopping list. Copy to lists/<list-id>.yaml.
+# Schema: see README.md "Data format".
+list: example-list
+title: Example list
+source: null            # URL if imported (e.g. OurGroceries)
+updated: YYYY-MM-DD
+
+items:
+  - id: example-item    # kebab-case, unique within list
+    name: Example item
+    qty: 1
+    category: misc      # matches research/<category>/
+    status: todo        # todo | researching | decided | bought | skip
+    budget: null        # max price you'd pay, USD
+    must_have: []       # requirements, short strings
+    research: null      # path to research note, e.g. research/misc/example-item.md
+    options:            # candidate offers; one entry per product+store
+      - product: Brand Model, variant
+        store: Example Store
+        price: 0.00     # USD, current price incl. sale
+        regular_price: null
+        unit: null      # e.g. kg, oz, count
+        unit_qty: null  # amount of unit in this offer (2 for 2 kg)
+        url: https://example.com
+        checked: YYYY-MM-DD
+        sale_ends: null # YYYY-MM-DD if known
+        notes: null
+    pick: null          # index or product name of chosen option

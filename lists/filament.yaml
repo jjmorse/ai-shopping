@@ -1,0 +1,40 @@
+list: filament
+title: 3D printing filament
+source: null
+updated: 2026-11-26
+printer: Bambu X2D
+
+items:
+  - id: silk-pla-silver
+    name: Silk PLA, silver
+    qty: null
+    category: 3d-printing
+    status: todo
+    budget: null
+    must_have: [1.75 mm, compatible with Bambu X2D]
+    research: research/3d-printing/filament.md
+    options: []
+    pick: null
+
+  - id: silk-pla-gold
+    name: Silk PLA, gold
+    qty: null
+    category: 3d-printing
+    status: todo
+    budget: null
+    must_have: [1.75 mm, compatible with Bambu X2D]
+    research: research/3d-printing/filament.md
+    options: []
+    pick: null
+
+  - id: pla-black
+    name: PLA, black
+    qty: null
+    category: 3d-printing
+    status: todo
+    budget: null
+    must_have: [1.75 mm, compatible with Bambu X2D]
+    research: research/3d-printing/filament.md
+    options: []
+    pick: null
+
