@@ -26,7 +26,7 @@ items:
         url: https://www.aventon.com/products/level-4-rec-ebike
         checked: 2026-11-27
         sale_ends: null
-        notes: "$200 off (new-releases page). 750W hub, removable 733Wh LG-cell battery, Shimano Altus 8-spd, Tektro hydraulic 180mm 6-bolt rotors. 2-yr warranty + lifetime frame. 2,000+ partner shops for service. Extra battery $499 (fit not confirmed on page). Per-size stock not shown; buy-box price read from page tables, re-check at checkout."
+        notes: "$200 off (new-releases page). Electrek/EBR (affiliate) say free suspension seatpost + folding lock included; no code needed. 750W hub, removable 733Wh LG-cell battery, Shimano Altus 8-spd, Tektro hydraulic 180mm 6-bolt rotors. 2-yr warranty + lifetime frame. 2,000+ partner shops for service. Extra battery $499 (fit not confirmed on page). Per-size stock not shown; buy-box price read from page tables, re-check at checkout."
       - product: Trek FX+ 2 Stagger, Blue Sage
         store: Trek
         price: 1599.93
@@ -47,7 +47,7 @@ items:
         checked: 2026-11-27
         sale_ends: null
         notes: "'IN STOCK: ALMOST GONE'. 750W hub, 840Wh battery, 602 hydraulic brakes, 1-yr warranty, UL 2849. Folding, ~71 lb. Spare battery $350 (was $575): https://lectricebikes.com/products/xp4-750-spare-battery. Parts store mostly batteries/chargers/tires; no dealer network. Best Buy lists same bike ~$1,664 (with accessories)."
-      - product: Ride1Up Vorsa
+      - product: Ride1Up Vorsa (Lite $1,345 / Standard $1,445 / FT $1,595)
         store: Ride1Up
         price: 1345.00
         regular_price: 1495.00
@@ -56,7 +56,7 @@ items:
         url: https://ride1up.com/product/vorsa/
         checked: 2026-11-27
         sale_ends: null
-        notes: "Price from 'From $1,345 / $1,495' upsell on the battery page; product page price widget didn't render (BF banner 'up to $150 off'). In stock. 750W AKM hub, removable 720Wh Samsung battery, Shimano Acera 8-spd, Star Union hydraulic 203/180mm. 1-yr warranty. Spare battery $475. Owner reviews: replacement parts shipped next day. 65 lb."
+        notes: "$1,345 is Vorsa Lite; Standard is $1,445 (reg $1,595) per 9to5Toys/Electrek 2026-11-12 (affiliate). Accessories up to 40% off. Price from 'From $1,345 / $1,495' upsell on the battery page; product page price widget didn't render (BF banner 'up to $150 off'). In stock. 750W AKM hub, removable 720Wh Samsung battery, Shimano Acera 8-spd, Star Union hydraulic 203/180mm. 1-yr warranty. Spare battery $475. Owner reviews: replacement parts shipped next day. 65 lb."
       - product: Heybike Venus, 750W (Rose Gold / Pearl White / Titanium Grey)
         store: Heybike
         price: 1499.00

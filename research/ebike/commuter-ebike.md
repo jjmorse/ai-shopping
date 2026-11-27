@@ -30,7 +30,7 @@ Prices/links live in the YAML. All checked 2026-11-27 via page fetch (Chrome ext
 
 | | Aventon Level 4 REC | Trek FX+ 2 Stagger | Lectric XP4 750 | Ride1Up Vorsa |
 |---|---|---|---|---|
-| BF price | $1,799 (−$200) | $1,599.93 (Trek "comp. value" $2,499.99) | $1,299 (−$532) | ~$1,345 (page widget didn't render) |
+| BF price | $1,799 (−$200) | $1,599.93 (Trek "comp. value" $2,499.99) | $1,299 (−$532) | $1,345 Lite / $1,445 Standard |
 | Battery | 733Wh, removable, LG cells | 250Wh integrated (+250Wh extender option) | 840Wh, removable | 720Wh, removable, Samsung |
 | Spare battery | $499 | n/a (extender only) | $350 | $475 |
 | Drivetrain/brakes | Shimano Altus 8, Tektro hydraulic 6-bolt | Shimano 9, hydraulic | Shimano Altus 8 (summary), 602 hydraulic | Shimano Acera 8, Star Union hydraulic |
@@ -81,6 +81,15 @@ removable battery, Shimano Altus, hydraulic brakes, light at 50 lb. Lower on rep
 - PopSci test bike: battery-cover latch broke (Heybike sent replacement fast), chain dropped.
 Verdict: fine budget bike, not a repairability pick. If $999 code works it undercuts Lectric, but Lectric
 has spare batteries in stock and better support anecdotes.
+
+## Black Friday codes / extras (checked 2026-11-27)
+
+- No codes found for Aventon, Lectric, Ride1Up or Trek; deals are automatic. Aventon adds free lock + suspension
+  seatpost; Lectric bundles accessories; Ride1Up accessories up to 40% off. Trek FX+ 2: no extra deal found.
+- Heybike Venus: EBR500 / 9T5T500 claimed $500 off → $999 (affiliate sites; not on Heybike page).
+- Heybike owner sentiment: Trustpilot US 4.1 / 1,779 reviews, 15% 1-star; themes = replacements eventually come
+  but battery swaps can take weeks-months. Slickdeals owners: slow but helpful support. Reddit not reachable
+  from this session; only secondhand "horror stories" mention.
 
 ## Before buying
 
