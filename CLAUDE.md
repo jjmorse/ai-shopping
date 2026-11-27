@@ -8,3 +8,11 @@
 - Give one clear recommendation plus runner-up; say why.
 - Set the item's `research:` path and `status`. Run `python3 scripts/validate.py` before committing.
 - Don't buy, sign in, or add to carts. Research only.
+
+## Research standards (learned 2026-11-27)
+
+- Deal sites and fetch summaries are leads, not facts. Open the actual retailer product page before recommending: confirm in stock, buy-box price (not a sponsored ad, collection page, or "comp. value"), and photos match the requested form factor.
+- Give direct product links (`/dp/<ASIN>`, product URL), not search links, unless nothing verified exists — then say so.
+- If the browser fails, retry before reporting it offline; never repeat an old failure as current.
+- Back quality/security claims with evidence (independent tests, teardown, owner reports) and flag vendor/affiliate sources. Say plainly when no evidence exists.
+- Check what the person already owns before suggesting a purchase; maintenance can beat replacement.
