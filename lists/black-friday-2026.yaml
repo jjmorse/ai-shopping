@@ -57,17 +57,33 @@ items:
     category: black-friday
     status: researching
     budget: null
-    must_have: [neckband style, replaces Mpow]
+    must_have: [neckband style, full multipoint, no ANC]
     research: research/black-friday/headphones.md
     options:
-      - product: Sony WI-C100 wireless neckband
+      - product: Truefree HD-200 magnetic neckband (BT 6.0, multipoint)
+        store: Amazon
+        price: 29.99
+        regular_price: null
+        url: https://www.amazon.com/dp/B0H3JZ2JSF
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Listing says multipoint; 20h battery, IP67; few reviews.
+      - product: LG TONE Style HBS-SL5 (renewed)
+        store: Amazon
+        price: 27.98
+        regular_price: null
+        url: https://www.amazon.com/dp/B07ZJWFW4L
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Multipoint per SoundGuys (7.2); renewed only.
+      - product: Sony WI-C100 (no multipoint)
         store: Amazon
         price: 23.00
         regular_price: null
-        url: https://slickdeals.net/f/19838670-sony-wi-c100-wireless-in-ear-bluetooth-neckband-headphones-w-mic-black-23-00-free-shipping-w-prime-or-on-35
-        checked: 2026-11-26
+        url: https://www.amazon.com/dp/B09YLFHFDW
+        checked: 2026-11-27
         sale_ends: null
-        notes: Price from Oct 2026 Prime Day deal; current BF price unconfirmed.
+        notes: 4.1 stars / 15.3K ratings; no multipoint.
     pick: null
   - id: induction-range
     name: Induction range
