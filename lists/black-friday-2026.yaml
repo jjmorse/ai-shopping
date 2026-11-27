@@ -60,22 +60,14 @@ items:
     must_have: [neckband style, full multipoint, no ANC]
     research: research/black-friday/headphones.md
     options:
-      - product: Truefree HD-200 magnetic neckband (BT 6.0, multipoint)
-        store: Amazon
-        price: 29.99
-        regular_price: null
-        url: https://www.amazon.com/dp/B0H3JZ2JSF
-        checked: 2026-11-27
-        sale_ends: null
-        notes: Listing says multipoint; 20h battery, IP67; few reviews.
       - product: LG TONE Style HBS-SL5 (renewed)
         store: Amazon
-        price: 27.98
+        price: 0
         regular_price: null
         url: https://www.amazon.com/dp/B07ZJWFW4L
         checked: 2026-11-27
         sale_ends: null
-        notes: Multipoint per SoundGuys (7.2); renewed only.
+        notes: Currently unavailable on Amazon (0 = no price). Collar style + multipoint per SoundGuys; try used/eBay.
       - product: Sony WI-C100 (no multipoint)
         store: Amazon
         price: 23.00
