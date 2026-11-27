@@ -9,32 +9,242 @@ items:
     name: Silk PLA, silver
     qty: null
     category: 3d-printing
-    status: todo
+    status: researching
     budget: null
     must_have: [1.75 mm, compatible with Bambu X2D]
     research: research/3d-printing/filament.md
-    options: []
+    options:
+      - product: JAYO Silk PLA+ 5 x 1.1 kg, SILK Mix-1 (2 Silver, 2 Copper, 1 Gold)
+        store: AliExpress (JAYO official store)
+        price: 42.85
+        regular_price: 161.55
+        unit: kg
+        unit_qty: 5.5
+        url: https://www.aliexpress.us/item/3256805615696543.html
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Price from Josh's cart. Plus about $10.87 shipping (signed-out view), ships from US in ~3 days. $7 off $39 platform coupon brings it to ~$46.72 shipped ($8.49/kg). Limit 1 per shopper. 4.8 stars, 576 reviews. Plastic spools per photo."
+      - product: Sunlu Silk PLA 4 x 1 kg bundle (Light Gold, Silver, Black, Red)
+        store: Amazon
+        price: 38.75
+        regular_price: 50.98
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0DHRQM6YL
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, 365-day low. Covers silver and gold in one buy. Reusable plastic spools, 203 x 63.5 mm. 4.5 stars, 5,373 ratings."
+      - product: Bambu Lab PLA Silk+, Silver (1 kg spool)
+        store: Best Buy
+        price: 18.99
+        regular_price: null
+        unit: kg
+        unit_qty: 1
+        url: https://www.bestbuy.com/product/bambu-lab-1-75mm-pla-silk-filament-silver/CZW2ZH3L57
+        checked: 2026-11-26
+        sale_ends: null
+        notes: "RFID tag, AMS auto-detects. Stock on cached page may be stale."
+      - product: Bambu Lab PLA Silk+, Silver (1 kg spool)
+        store: STEMfinity
+        price: 18.99
+        regular_price: 18.99
+        unit: kg
+        unit_qty: 1
+        url: https://stemfinity.com/products/bambu-lab-pla-silk
+        checked: 2026-11-26
+        sale_ends: null
+        notes: "Silver shown selectable; many other colors sold out."
+      - product: Sunlu Silk PLA+, Silver
+        store: Sunlu store
+        price: 14.99
+        regular_price: 29.99
+        unit: kg
+        unit_qty: 1
+        url: https://store.sunlu.com/pages/sunlu-black-friday-filament-mix-and-match
+        checked: 2026-11-26
+        sale_ends: null
+        notes: "Price from page summary, verify. Mix-and-match 4+ 5%, 7+ 10%, 10+ 15% off. Free ship over $40. Weight assumed 1 kg."
+      - product: Elegoo PLA Silk 10 kg bundle (Silver Grey variant)
+        store: Elegoo US
+        price: 119.99
+        regular_price: 189.9
+        unit: kg
+        unit_qty: 10
+        url: https://us.elegoo.com/pages/elegoo-black-friday
+        checked: 2026-11-26
+        sale_ends: 2026-12-01
+        notes: "About $12/kg. Check whether bundle is single color or mixable."
     pick: null
 
   - id: silk-pla-gold
     name: Silk PLA, gold
     qty: null
     category: 3d-printing
-    status: todo
+    status: researching
     budget: null
     must_have: [1.75 mm, compatible with Bambu X2D]
     research: research/3d-printing/filament.md
-    options: []
+    options:
+      - product: JAYO Silk PLA+ 5 x 1.1 kg, SILK Mix-1 (2 Silver, 2 Copper, 1 Gold)
+        store: AliExpress (JAYO official store)
+        price: 42.85
+        regular_price: 161.55
+        unit: kg
+        unit_qty: 5.5
+        url: https://www.aliexpress.us/item/3256805615696543.html
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Price from Josh's cart. Plus about $10.87 shipping (signed-out view), ships from US in ~3 days. $7 off $39 platform coupon brings it to ~$46.72 shipped ($8.49/kg). Limit 1 per shopper. 4.8 stars, 576 reviews. Plastic spools per photo."
+      - product: Sunlu Silk PLA 4 x 1 kg bundle (Light Gold, Silver, Black, Red)
+        store: Amazon
+        price: 38.75
+        regular_price: 50.98
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0DHRQM6YL
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, 365-day low. Covers silver and gold in one buy. Reusable plastic spools, 203 x 63.5 mm. 4.5 stars, 5,373 ratings."
+      - product: Bambu Lab PLA Silk+, Gold (1 kg spool)
+        store: STEMfinity
+        price: 18.99
+        regular_price: 18.99
+        unit: kg
+        unit_qty: 1
+        url: https://stemfinity.com/products/bambu-lab-pla-silk
+        checked: 2026-11-26
+        sale_ends: null
+        notes: "RFID tag, AMS auto-detects. Gold shown selectable."
+      - product: Sunlu Silk PLA+, Light Gold
+        store: Sunlu store
+        price: 14.99
+        regular_price: 29.99
+        unit: kg
+        unit_qty: 1
+        url: https://store.sunlu.com/pages/sunlu-black-friday-filament-mix-and-match
+        checked: 2026-11-26
+        sale_ends: null
+        notes: "Price from page summary, verify. Silk Brass $13.89 is a darker gold. Same mix-and-match tiers."
+      - product: Elegoo PLA Silk 10 kg bundle (Silk Gold variant)
+        store: Elegoo US
+        price: 119.99
+        regular_price: 189.9
+        unit: kg
+        unit_qty: 10
+        url: https://us.elegoo.com/pages/elegoo-black-friday
+        checked: 2026-11-26
+        sale_ends: 2026-12-01
+        notes: "About $12/kg."
+      - product: Polymaker Panchroma Metallic PLA, Gold
+        store: Polymaker
+        price: 24.99
+        regular_price: 24.99
+        unit: kg
+        unit_qty: 1
+        url: https://shop.polymaker.com/pages/bfcm-sale-2026
+        checked: 2026-11-26
+        sale_ends: 2026-12-02
+        notes: "Metallic (not silk) look. Buy 2 save 20%, 4 save 25%, 10 save 30% on eligible items."
     pick: null
 
   - id: pla-black
     name: PLA, black
     qty: null
     category: 3d-printing
-    status: todo
+    status: researching
     budget: null
     must_have: [1.75 mm, compatible with Bambu X2D]
     research: research/3d-printing/filament.md
-    options: []
+    options:
+      - product: Geeetech PLA 5 kg, Black
+        store: AliExpress
+        price: 30.49
+        regular_price: 79.98
+        unit: kg
+        unit_qty: 5
+        url: https://www.aliexpress.us/item/3256809495654177.html
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Ships from US. 4.8 stars, 449 reviews, 2,000+ sold. Extra $3 off $15 coupon. Reviewer says spool smaller than usual, may need adapter. Price seen signed out."
+      - product: Kingroon PLA 10 kg (10 x 1 kg), Black
+        store: AliExpress
+        price: 77.44
+        regular_price: 212.08
+        unit: kg
+        unit_qty: 10
+        url: https://www.aliexpress.us/item/3256809479333689.html
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "White, Gray and Mix variants same listing. $7 off $39 coupon brings it to about $70. 4.9 stars, 595 reviews. About 5-day delivery. Price seen signed out."
+      - product: Elegoo PLA Black 4 x 1 kg
+        store: Amazon
+        price: 36.52
+        regular_price: 42.96
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0BV24T11D
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, in stock. 4.7 stars, 2,065 ratings. All black."
+      - product: Elegoo PLA+ 4 x 1 kg (Black, White, Grey, Space Grey)
+        store: Amazon
+        price: 36.76
+        regular_price: 45.99
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0H15CZF12
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, in stock. 4.6 stars, 2,320 ratings. Only 1 kg black."
+      - product: Sunlu PLA+ 4 x 1 kg (Black, White, Grey, Transparent)
+        store: Amazon
+        price: 35.48
+        regular_price: 45.99
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0DYXV8XYZ
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, 365-day low, in stock. 4.6 stars, 2,151 ratings. All-black 4-pack variant $39.70."
+      - product: Elegoo PLA 10 kg bundle, Black
+        store: Elegoo US
+        price: 89.99
+        regular_price: 140.0
+        unit: kg
+        unit_qty: 10
+        url: https://us.elegoo.com/pages/elegoo-black-friday
+        checked: 2026-11-26
+        sale_ends: 2026-12-01
+        notes: "About $9/kg. Cheapest per kg. Check spool type before loading in AMS."
+      - product: Sunlu PLA, Black (1 kg)
+        store: Sunlu store
+        price: 12.49
+        regular_price: 18.99
+        unit: kg
+        unit_qty: 1
+        url: https://store.sunlu.com/pages/sunlu-black-friday-filament-mix-and-match
+        checked: 2026-11-26
+        sale_ends: null
+        notes: "Prices $12.49-13.69 by listing. Mix-and-match tiers stack."
+      - product: Bambu Lab PLA Basic, Black (1 kg refill)
+        store: GigaParts
+        price: 14.99
+        regular_price: 15.99
+        unit: kg
+        unit_qty: 1
+        url: https://www.gigaparts.com/bambu-lab-pla-basic-black-3d-printer-filament-1-75mm-1kg-refill-a00-k0-1-75-1000-splfree.html
+        checked: 2026-11-26
+        sale_ends: null
+        notes: "$14.99 after mail-in rebate. Mix-and-match tiers: 4-5 units 15%, 6-9 25%, 10+ 35%. Refill needs reusable spool."
+      - product: Polymaker Panchroma Matte PLA, Charcoal Black (1 kg)
+        store: Polymaker
+        price: 18.99
+        regular_price: null
+        unit: kg
+        unit_qty: 1
+        url: https://shop.polymaker.com/pages/bfcm-sale-2026
+        checked: 2026-11-26
+        sale_ends: 2026-12-02
+        notes: "Matte finish. Bulk tiers up to 30% off."
     pick: null
 
