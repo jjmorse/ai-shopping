@@ -136,6 +136,26 @@ items:
     must_have: [1.75 mm, compatible with Bambu X2D]
     research: research/3d-printing/filament.md
     options:
+      - product: Geeetech PLA 5 kg, Black
+        store: AliExpress
+        price: 30.49
+        regular_price: 79.98
+        unit: kg
+        unit_qty: 5
+        url: https://www.aliexpress.us/item/3256809495654177.html
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Ships from US. 4.8 stars, 449 reviews, 2,000+ sold. Extra $3 off $15 coupon. Reviewer says spool smaller than usual, may need adapter. Price seen signed out."
+      - product: Kingroon PLA 10 kg (10 x 1 kg), Black
+        store: AliExpress
+        price: 77.44
+        regular_price: 212.08
+        unit: kg
+        unit_qty: 10
+        url: https://www.aliexpress.us/item/3256809479333689.html
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "White, Gray and Mix variants same listing. $7 off $39 coupon brings it to about $70. 4.9 stars, 595 reviews. About 5-day delivery. Price seen signed out."
       - product: Elegoo PLA Black 4 x 1 kg
         store: Amazon
         price: 36.52
