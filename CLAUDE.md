@@ -16,3 +16,5 @@
 - If the browser fails, retry before reporting it offline; never repeat an old failure as current.
 - Back quality/security claims with evidence (independent tests, teardown, owner reports) and flag vendor/affiliate sources. Say plainly when no evidence exists.
 - Check what the person already owns before suggesting a purchase; maintenance can beat replacement.
+- Marketplaces (AliExpress etc.): signed-out prices may be new-shopper only and shipping is often extra per store. Show price + shipping, compare per unit, and tell the person to check the cart total. Note platform coupons (e.g. $7 off $39) and whether combining items into one order helps.
+- Compare bundles by what's actually inside (colors, weights per spool), not just the pack price.
