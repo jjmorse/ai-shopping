@@ -14,6 +14,16 @@ items:
     must_have: [1.75 mm, compatible with Bambu X2D]
     research: research/3d-printing/filament.md
     options:
+      - product: Sunlu Silk PLA 4 x 1 kg bundle (Light Gold, Silver, Black, Red)
+        store: Amazon
+        price: 38.75
+        regular_price: 50.98
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0DHRQM6YL
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, 365-day low. Covers silver and gold in one buy. Reusable plastic spools, 203 x 63.5 mm. 4.5 stars, 5,373 ratings."
       - product: Bambu Lab PLA Silk+, Silver (1 kg spool)
         store: Best Buy
         price: 18.99
@@ -65,6 +75,16 @@ items:
     must_have: [1.75 mm, compatible with Bambu X2D]
     research: research/3d-printing/filament.md
     options:
+      - product: Sunlu Silk PLA 4 x 1 kg bundle (Light Gold, Silver, Black, Red)
+        store: Amazon
+        price: 38.75
+        regular_price: 50.98
+        unit: kg
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0DHRQM6YL
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Black Friday deal, 365-day low. Covers silver and gold in one buy. Reusable plastic spools, 203 x 63.5 mm. 4.5 stars, 5,373 ratings."
       - product: Bambu Lab PLA Silk+, Gold (1 kg spool)
         store: STEMfinity
         price: 18.99

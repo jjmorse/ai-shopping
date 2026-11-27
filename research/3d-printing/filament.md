@@ -17,7 +17,7 @@ Printer: Bambu X2D with AMS. 1.75 mm. Silk silver and silk gold for decorative p
 
 ## Recommendation
 
-**Buy:** One Sunlu order: Silk PLA+ Silver + Silk PLA+ Light Gold + black PLA (4+ spools for the 5% tier). About $13-15/kg, free shipping.
+**Buy:** Sunlu Silk PLA 4 x 1 kg bundle on Amazon (Light Gold, Silver, Black, Red) at $38.75, which is $9.69/kg. Found 2026-11-27, Black Friday deal. Covers both silk colors at once. For plain black, add Sunlu or Elegoo black PLA.
 **Runner-up:** Bambu Silk+ Silver/Gold ($18.99) for RFID convenience; for black, Elegoo 10 kg ($9/kg) if you go through a lot of black.
 **Why:** Silk is a color you use slowly, so cheapest decent single spools win. Bambu adds about $4/spool for RFID auto-profile. Black is a staple, so bulk pays off.
 
