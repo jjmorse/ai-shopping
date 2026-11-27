@@ -35,7 +35,7 @@ Prices/links live in the YAML. All checked 2026-11-27 via page fetch (Chrome ext
 | Spare battery | $499 | n/a (extender only) | $350 | $475 |
 | Drivetrain/brakes | Shimano Altus 8, Tektro hydraulic 6-bolt | Shimano 9, hydraulic | Shimano Altus 8 (summary), 602 hydraulic | Shimano Acera 8, Star Union hydraulic |
 | Warranty | 2 yr + lifetime frame | Trek dealer warranty | 1 yr | 1 yr |
-| Service | 2,000+ partner shops | Trek dealers (Denver metro) | Mail-order parts only | Mail-order parts only |
+| Service | 2,000+ partner shops | Trek dealers (local stock not checked) | Mail-order parts only | Mail-order parts only |
 
 ## Recommendation
 
@@ -45,10 +45,10 @@ Prices/links live in the YAML. All checked 2026-11-27 via page fetch (Chrome ext
 
 **Why Aventon:** best mix of the repairability signals at this budget — removable name-brand-cell battery
 with a spare sold by the brand, Shimano/Tektro parts any shop can service, the longest warranty here
-(2 yr), and a 2,000+ shop service network so you're not stuck with mail-order diagnosis. Aventon has been
-around since 2012ish and is still expanding (new Current line), unlike Rad.
+(2 yr), and a 2,000+ shop service network so you're not stuck with mail-order diagnosis. Aventon is still
+launching new lines (Current, 2026), unlike Rad. Company finances not verified.
 
-**Why Trek is runner-up, not winner:** Trek is the safest company and Denver has Trek stores, but the
+**Why Trek is runner-up, not winner:** Trek is the safest company and Trek has the widest dealer network, but the
 FX+ 2 motor/battery are Trek-proprietary, the 250Wh battery is small and listed as integrated (harder to
 bring inside in winter), and "Stagger" is the low step frame — check photos vs. what you want. A non-stagger
 FX+ 2 price wasn't found on sale.
