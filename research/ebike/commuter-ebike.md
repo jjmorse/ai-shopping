@@ -68,6 +68,20 @@ battery, owners report good customer service — but 1-yr warranty, no shops, 20
 - No sale end dates shown on any page. Aventon/Ride1Up buy-box prices read from page tables/upsells, not
   rendered buy box — re-check at checkout.
 
+## Heybike (Josh asked 2026-11-27)
+
+Venus is the commuter pick: $1,499 on heybike.com (affiliate codes claim $999 — unverified), 680Wh
+removable battery, Shimano Altus, hydraulic brakes, light at 50 lb. Lower on repairability than Aventon:
+- Warranty page headline says 2 years, but its "not covered" list says frame/motor/controller/display are
+  warrantied only one week after delivery. Contradictory; get battery/motor terms in writing.
+- Heybike's own Aug 2024 post admits parts resolution "remains a challenge", 10-20 days for warranty parts.
+  UK Trustpilot (2024) reports ~2-month waits for small parts shipped from China.
+- No Venus spare battery listed; Ranger spare battery sold out ($459).
+- Third-party shop repairs reimbursed only with prior approval; no service network.
+- PopSci test bike: battery-cover latch broke (Heybike sent replacement fast), chain dropped.
+Verdict: fine budget bike, not a repairability pick. If $999 code works it undercuts Lectric, but Lectric
+has spare batteries in stock and better support anecdotes.
+
 ## Before buying
 
 - Confirm a nearby shop on Aventon's dealer locator will service it (some shops only service what they sell).

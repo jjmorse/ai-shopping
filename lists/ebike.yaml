@@ -57,4 +57,14 @@ items:
         checked: 2026-11-27
         sale_ends: null
         notes: "Price from 'From $1,345 / $1,495' upsell on the battery page; product page price widget didn't render (BF banner 'up to $150 off'). In stock. 750W AKM hub, removable 720Wh Samsung battery, Shimano Acera 8-spd, Star Union hydraulic 203/180mm. 1-yr warranty. Spare battery $475. Owner reviews: replacement parts shipped next day. 65 lb."
+      - product: Heybike Venus, 750W (Rose Gold / Pearl White / Titanium Grey)
+        store: Heybike
+        price: 1499.00
+        regular_price: null
+        unit: count
+        unit_qty: 1
+        url: https://www.heybike.com/products/venus
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Heybike page shows $1,499 + BF free gift box; no discount visible. 9to5Toys/EBR (affiliate) advertise $999 with codes 9T5T500 / EBR500 - unverified on retailer page, try at checkout. 680Wh removable (per PopSci), Shimano Altus 8, hydraulic 180mm, 50 lb. 2-yr limited warranty (direct only; page also says frame/motor/controller/display covered only 1 week - ambiguous). No Venus spare battery listed. Heybike admitted 2024 support backlog and 10-20 day parts waits 'due to stock issues'."
     pick: null
