@@ -100,6 +100,19 @@ has spare batteries in stock and better support anecdotes.
 - REI sale page showed no ebikes under $2k.
 - Aventon/Upway "Re-Frame" trade-in at Aventon Signature Dealers ($200 bonus was 2025; 2026 unconfirmed).
 
+## Other brands (checked 2026-11-27)
+
+- **Velotric Discover 3, $1,899** — strongest challenger to Aventon: 3-yr battery/electrical warranty with
+  registration, battery interchangeable with previous gen (good parts-continuity sign), spare sold, Longmont CO
+  showcase shop for service. Step-through only, 61 lb. EBR review: sealed hub, solid build, 87 mi Eco range.
+  Risk: ~6-yr-old VC-funded private company; dealers stock only batteries/chargers, other parts ordered.
+- **Monarc Marker, $1,999** — Bafang motor (most serviceable brand per CyclingAbout), 2 batteries, 5-yr warranty.
+  88 lb fat tire; better for snow than commuting.
+- **Tenways CGO600 Pro, ~$1,499** (Oct price) — 37 lb, light, but 360Wh, stock in and out. Repair record unknown.
+- **Priority** — belt-drive bikes (E-Coast/Glide $1,799) = minimal drivetrain maintenance; cruiser-style; specs
+  and sale prices not visible.
+- **Specialized Turbo Vado 3.0, from $2,099.99** — mid-drive + big dealer network; over budget, proprietary.
+
 ## Before buying
 
 - Confirm a nearby shop on Aventon's dealer locator will service it (some shops only service what they sell).

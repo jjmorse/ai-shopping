@@ -97,4 +97,34 @@ items:
         checked: 2026-11-27
         sale_ends: null
         notes: "In stock. Free battery + mirror. Velotric warranty 2 yr + 1 yr free with registration. Also Discover 3 commuter $1,899 (free bag/mirror), Tempo $1,399. Removable battery + specs not verified on model pages. Codes can't combine; BF pricing online only."
+      - product: Velotric Discover 3 (step-through commuter)
+        store: Velotric
+        price: 1899.00
+        regular_price: 1999.00
+        unit: count
+        unit_qty: 1
+        url: https://velotricbike.com/products/velotric-discover-3-commuter-ebike
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "750W hub, 730Wh Samsung/LG battery (removable; spare sold; Discover 2/3 batteries interchangeable after firmware update), Shimano 8-spd, Tektro hydraulic 180mm. Warranty 2 yr, battery/electrical 3 yr + frame 10 yr with registration. 1,600+ partner shops; Longmont Bicycle Company (Longmont CO) is a Velotric showcase/service shop. 61 lb. Velotric ~6 yrs old, VC-funded, private."
+      - product: Monarc Marker (fat tire, 2 batteries)
+        store: Monarc
+        price: 1999.00
+        regular_price: null
+        unit: count
+        unit_qty: 1
+        url: https://riderguide.com/reviews/monarc-marker/
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Price from RiderGuide review (affiliate), not Monarc page. Bafang 750W hub, two removable 720Wh packs, Shimano Cues 9, 4-piston hydraulic. 5-yr warranty (battery 1 yr). Lectric-owned. 88 lb fat tire: snow-capable but heavy for commuting."
+      - product: Specialized Turbo Vado 3.0 Active (mid-drive)
+        store: Bicycle Warehouse
+        price: 2099.99
+        regular_price: 3000.00
+        unit: count
+        unit_qty: 1
+        url: https://bicyclewarehouse.com/collections/electric-bikes-on-sale?page=1
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "'From' price on collection page (summary-read), size/color unverified; $100 over budget. Specialized mid-drive + dealer network, but proprietary system. Collection link only."
     pick: null
