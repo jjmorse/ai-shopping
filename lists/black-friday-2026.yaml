@@ -1,7 +1,7 @@
 list: black-friday-2026
 title: Black Friday 2026
 source: https://ourgroceries.com/s/eb8ec6SkBqNyBbDGxL8tjB
-updated: 2026-11-26
+updated: 2026-11-28
 
 # Imported from OurGroceries 2026-11-26. Items already crossed off there
 # (3D Printer, Pull up bar, washer and dryer) are omitted.
@@ -512,4 +512,47 @@ items:
         checked: 2026-11-27
         sale_ends: null
         notes: Only Netflix discount found (10%). Netflix has no Black Friday plan deal. Credit applies to existing account.
+    pick: null
+
+  - id: qi-charger-oneplus-15
+    name: Qi wireless charger for OnePlus 15
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [fast wireless on OnePlus 15]
+    research: research/black-friday/oneplus-15-wireless-charger.md
+    options:
+      - product: OnePlus AIRVOOC 50W Magnetic Charger (OAWV08, fan puck)
+        store: Swiftronics USA
+        price: 59.99
+        regular_price: 79.00
+        url: https://swiftronicsinc.com/products/oneplus-airvooc-50w-magnetic-charger
+        checked: 2026-11-28
+        sale_ends: null
+        notes: In stock, ships in 1 business day. Needs magnetic case + 80W+ SUPERVOOC brick (US OnePlus 15 box brick is 80W). Shipping cost not shown until cart.
+      - product: OnePlus 15 Sandstone Magnetic Case (OPC55), official
+        store: Swiftronics USA
+        price: 19.99
+        regular_price: 39.99
+        url: https://swiftronicsinc.com/products/oneplus-15-sandstone-magnetic-case-opc55
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Add-on with charger, same order. Needed only if no magnetic case already.
+      - product: OnePlus 15 Magnetic Case Sandstone/Aramid, official
+        store: Amazon (sold by OP Tech, ships from Amazon)
+        price: 33.99
+        regular_price: 39.99
+        url: https://www.amazon.com/dp/B0FX31XGX4
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Same case, $14 more than Swiftronics but Amazon returns / same-day delivery.
+      - product: OnePlus AIRVOOC 50W Magnetic Charger 2 + Stand (OAWV09, TEC cooling)
+        store: eBay (auskyview, ships from China)
+        price: 89.99
+        regular_price: null
+        url: https://www.ebay.com/itm/358435722520
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Newer model with stand + Peltier cooling. Free shipping, import fees incl., delivery Dec 14-23. Also needs 80W+ SUPERVOOC brick and magnetic case.
     pick: null
