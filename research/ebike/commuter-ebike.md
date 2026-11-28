@@ -118,6 +118,24 @@ has spare batteries in stock and better support anecdotes.
 - Prototype 350W motor overheated; Lectric moved to 500W before launch. New model (Oct 2026), so no long-term data.
 - All three reviews use affiliate links; EBR got units from Lectric.
 
+## XPress Lite vs Heybike Venus reviews (2026-11-28)
+
+| | Lectric XPress Lite | Heybike Venus |
+|---|---|---|
+| Price | $1,099 | $1,499 ($1,399 Venus Deal page; $999 code unverified) |
+| Range max / min assist | 22-24 / 42 mi | 32 / 75-83 mi |
+| Battery | 374Wh | 680Wh |
+| Hill (EBReport, same hill) | throttle 2:13, pedal 1:53 | throttle 1:59, pedal 1:55 |
+| Stop from 20 mph (EBReport) | 21'5" | 24'5" |
+| Weight tested | 52-54 lb | 54 lb |
+| Frame | mid-step, one size ~5'3"-6'1" | step-through only, 4'11"-6'2" |
+| Tires/fork | 1.95" slick, rigid | 2.2", rigid |
+| Class | ships Class 2; 1/2/3 in menu | ships Class 2; 1/2/3 via display/app |
+| Age | launched Oct 2026 | launched Mar 2026 |
+
+Venus cons: slower stopping, no integrated tail light, jumpy battery meter, weaker brand support.
+XPress Lite cons: half the range, louder motor, new model. Neither review mentions a class PIN lock.
+
 ## Other vendors (checked 2026-11-27)
 
 - Upway certified refurb Level 4 REC $1,549 (size S only, 3 mi); 1-yr Upway warranty instead of 2-yr.
