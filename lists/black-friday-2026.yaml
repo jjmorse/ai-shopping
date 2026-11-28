@@ -482,6 +482,16 @@ items:
         checked: 2026-11-27
         sale_ends: 2026-11-30
         notes: $2.99/mo x 2, then $13.99/mo. Same price as Essential during promo, so pick Premium. Live TV has ads.
+      - product: Paramount+ Premium (ad-free), annual, promo code 712ZCSHH80Q
+        store: Paramount+
+        price: 69.99
+        regular_price: 139.99
+        unit: month
+        unit_qty: 12
+        url: https://slickdeals.net/f/20398938-paramount-plus-premium-ad-free-for-69-99
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Lead from Slickdeals (posted 2026-11-25), not on Paramount's page. "Select" new/returning accounts; pick Annual tab + Premium, enter code at checkout. Comments mixed (works for some, "invalid" for others). Billed upfront, renews at regular annual price. Beats monthly promo if keeping 12 months.
       - product: Paramount+ $100 eGift card
         store: Costco
         price: 79.99

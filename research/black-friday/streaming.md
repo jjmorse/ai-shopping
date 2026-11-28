@@ -33,7 +33,8 @@ Disney fine print: not combinable with other promos/bundles, not payable by gift
 **Buy:** Disney+, Hulu Bundle (with ads) at $4.99/mo — $59.88 for the year vs $155.88. Best deal of the set and it's Josh's priority.
 **Add if he wants HBO:** HBO Max Basic w/ Ads at $5.49/mo, bought separately on hbomax.com. Disney+/Hulu + HBO Max = $10.48/mo, under half the $21.99 trio bundle. Two separate bills/apps is the only cost.
 **Runner-up:** Disney+, Hulu Premium at $14.99/mo if ads are a dealbreaker (+$120/yr over the ad tier).
-**Paramount+:** Pick Premium (same $2.99 as Essential during promo). Good for a 2-month binge; set a reminder to cancel before month 3 or it jumps to $13.99. If keeping it long term, pay with Costco's $100 card for $79.99 (20% off).
+**Paramount+ (keeping a year):** Try code `712ZCSHH80Q` on the Annual tab, Premium plan: $69.99 for 12 months ad-free ($5.83/mo) vs $145.88 for the monthly promo + 10 months at $13.99. From Slickdeals, not Paramount's page; commenters report mixed results, so check the total before paying.
+**Paramount+ (short binge):** Pick Premium (same $2.99 as Essential during promo). Good for a 2-month binge; set a reminder to cancel before month 3 or it jumps to $13.99. If keeping it long term, pay with Costco's $100 card for $79.99 (20% off).
 **Netflix:** No subscription deal (confirmed by What's on Netflix; Netflix has no annual plans). Options: check T-Mobile plan for Netflix On Us, or buy Costco's $100 Netflix eGift card for $89.99 (10% off).
 **ESPN:** No Black Friday deal. Skip unless he wants live sports; ESPN Unlimited bundles start at $35.99/mo.
 
