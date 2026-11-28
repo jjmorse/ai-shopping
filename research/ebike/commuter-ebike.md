@@ -107,6 +107,17 @@ has spare batteries in stock and better support anecdotes.
   but battery swaps can take weeks-months. Slickdeals owners: slow but helpful support. Reddit not reachable
   from this session; only secondhand "horror stories" mention.
 
+## Lectric XPress Lite reviews (checked 2026-11-28)
+
+- Class: ships as Class 2 (EBR spec list); Class 1/2/3 selectable in display menu (hold + and -). PIN lock not
+  mentioned in any review.
+- Range: 42 mi lowest assist, 22-24 mi max/fast (EBR, Electric Bike Report, RiderGuide). Expect less in cold.
+- Build: "solid", no creaks, nothing broke in testing (3 reviewers). Brakes average-to-good.
+- Cons: one frame size (~5'3"-6'1" fit per EBR), rigid fork + 1.95" tires are harsh on potholes, louder motor
+  (80 dB vs 65 dB XPress 2, RiderGuide), small battery, rack/fenders extra, 275 lb payload.
+- Prototype 350W motor overheated; Lectric moved to 500W before launch. New model (Oct 2026), so no long-term data.
+- All three reviews use affiliate links; EBR got units from Lectric.
+
 ## Other vendors (checked 2026-11-27)
 
 - Upway certified refurb Level 4 REC $1,549 (size S only, 3 mi); 1-yr Upway warranty instead of 2-yr.
