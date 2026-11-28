@@ -360,14 +360,14 @@ items:
     must_have: [Acorn brand]
     research: null
     options:
-      - product: Acorn Original Slipper Sock, Light Grey Ragg Wool, Medium
+      - product: Acorn Original Slipper Sock, Crimson Ragg Wool, Medium
         store: Amazon
-        price: 27.80
+        price: 30.93
         regular_price: 52.00
-        url: https://www.amazon.com/dp/B01DSRSIB4
+        url: https://www.amazon.com/dp/B01BX6KYNW
         checked: 2026-11-27
-        sale_ends: null
-        notes: Sold by Amazon, BF deal, 90-day low. Medium prices by color - White 21.46, Red 30.93, Charcoal/Olive/Navy 44.19.
+        sale_ends: 2026-11-30
+        notes: Light Grey Ragg Wool Medium (B01DSRSIB4) went unavailable 2026-11-27 10 PM MT. Light Grey Cotton Twist (B01DL1HMKA) $21.46 is cotton not wool. Charcoal/Olive/Cobalt $44.19. Amazon BF deals end Nov 30 11:59 PM PT.
       - product: Acorn The Original Slipper Sock, Charcoal Ragg Wool
         store: Acorn
         price: 45.50
