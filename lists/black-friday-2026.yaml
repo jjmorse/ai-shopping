@@ -213,7 +213,7 @@ items:
         url: https://www.amazon.com/dp/B0D21149RD
         checked: 2026-11-27
         sale_ends: null
-        notes: Budget. 4.5 stars / 8.4K. Only 14 left at check. Sunny recumbents picked by GGR and BestReviews (different models).
+        notes: Model SF-RB4616S. 4.5 stars / 8.4K Amazon, 4.5 / 336 Walmart. Off-Amazon reviews are affiliate or spec roundups, no hands-on tests. Treadmill Doctor (repair shop) doubts 300 lb rating and longevity; warranty 3 yr frame / 180 days parts. Resistance may be too low for hard workouts. Inseam 29-38 in.
     pick: Schwinn 230
   - id: phone-controller
     name: Phone controller
@@ -440,6 +440,14 @@ items:
     research: null
     notes: "Tow vehicle 2022 Ford Ranger (receiver 7,500 lb / 750 lb TW with 53R). Ford: WD not required. etrailer recommends WD + sway for Ranger with ~4,400 lb trailer (question-642779). Escape 21 tongue ~450-500 lb loaded."
     options:
+      - product: Fastway e2 WD w/ 2-point sway control, trunnion, 8,000 lb GTW / 800 lb TW (FA92-00-0800)
+        store: etrailer
+        price: 530.68
+        regular_price: 679.29
+        url: https://www.etrailer.com/Weight-Distribution/Fastway/FA92-00-0800.html
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Sized for Josh's planning number (5,000 lb loaded, 700 lb TW); 400-800 lb range. etrailer's Ranger pick (question-642779). In stock, 174 reviews. Ranger receiver max 750 lb TW.
       - product: Fastway e2 WD w/ sway control, round bar, 6,000 lb GTW / 600 lb TW (FA94-00-0600)
         store: etrailer
         price: 438.68
@@ -447,8 +455,8 @@ items:
         url: https://www.etrailer.com/Weight-Distribution/Fastway/FA94-00-0600.html
         checked: 2026-11-27
         sale_ends: null
-        notes: In stock, 184 reviews. 400-600 lb TW range fits Escape 21. etrailer's pick for Escape 21 (question-500650).
-    pick: Fastway e2 FA94-00-0600
+        notes: Too small for 700 lb TW plan. In stock, 184 reviews. 400-600 lb TW. etrailer's pick for Escape 21 (question-500650).
+    pick: Fastway e2 FA92-00-0800
   - id: bath-pillow
     name: Bath pillow
     qty: 1
