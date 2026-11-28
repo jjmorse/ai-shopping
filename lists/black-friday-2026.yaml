@@ -434,3 +434,29 @@ items:
     notes: "Escape forum: WDH optional for a 21 (loaded tongue ~450-500 lb); etrailer recommends Fastway e2 FA94-00-0600. Need tow vehicle. Sources: escapeforum.org f10 threads 18791, 21397; etrailer question-500650."
     options: []
     pick: null
+  - id: bath-pillow
+    name: Bath pillow
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [quick-dry mesh, suction cups]
+    research: null
+    options:
+      - product: Bath Haven 3D mesh bath pillow (neck and back)
+        store: Amazon
+        price: 19.99
+        regular_price: 24.99
+        url: https://www.amazon.com/dp/B076VL1PD7
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Pick in Bob Vila (2021) and BestReviews (2025, affiliate). 4.5 stars / 12.8K. 6 suction cups, wash bag. Con reported - mesh a bit harsh on skin. Availability text blank on check; confirm in cart.
+      - product: Everlasting Comfort Luxury Bath Pillow, 4D mesh, gray
+        store: Amazon
+        price: 22.69
+        regular_price: 29.99
+        url: https://www.amazon.com/dp/B0G2T2J5C5
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Bob Vila best overall (2021). In stock, 4.5 stars / 9.2K.
+    pick: Bath Haven 3D mesh
