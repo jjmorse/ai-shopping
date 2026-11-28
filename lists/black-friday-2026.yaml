@@ -448,6 +448,30 @@ items:
         checked: 2026-11-27
         sale_ends: null
         notes: Sized for Josh's planning number (5,000 lb loaded, 700 lb TW); 400-800 lb range. etrailer's Ranger pick (question-642779). In stock, 174 reviews. Ranger receiver max 750 lb TW.
+      - product: Andersen No-Sway WD hitch (chain style), 4 in drop/rise, 2 in ball, 10K GTW / 1.4K TW (AN88VR)
+        store: etrailer
+        price: 789.98
+        regular_price: 834.99
+        url: https://www.etrailer.com/Weight-Distribution-Hitch/Andersen/AN88VR.html
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Chain-only, no spring bars; under 60 lb; quiet, can back up hooked. 55 reviews. Escape forum mixed - one owner says it wore the coupler in two years, others very happy. Confirm drop needed (measure).
+      - product: Curt TruTrack WD w/ 4-point sway control, trunnion, 8K GTW / 800 lb TW (C17499)
+        store: etrailer
+        price: 596.95
+        regular_price: 877.95
+        url: https://www.etrailer.com/Weight-Distribution-Hitch/CURT/C17499.html
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Spring-bar system like Fastway, stronger 4-point sway control. 650 reviews. In stock.
+      - product: Curt TruTrack 2P WD w/ sway control, 8K GTW / 800 lb TW (C95MJ)
+        store: etrailer
+        price: 448.95
+        regular_price: 590.95
+        url: https://www.etrailer.com/Weight-Distribution-Hitch/CURT/C95MJ.html
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Cheapest 800 lb option; 2-point sway like Fastway e2. 119 reviews. In stock.
       - product: Fastway e2 WD w/ sway control, round bar, 6,000 lb GTW / 600 lb TW (FA94-00-0600)
         store: etrailer
         price: 438.68
