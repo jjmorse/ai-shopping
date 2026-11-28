@@ -137,4 +137,14 @@ items:
         checked: 2026-11-28
         sale_ends: null
         notes: "Verified in Chrome: 'IN STOCK - ALMOST GONE'. New model. 500W hub (864W peak), removable 374Wh battery (small; up to 45 mi, less in cold), Shimano Altus 8, hydraulic 180mm, rigid fork, 27.5x1.95 slicks, ~52 lb. Rider 5'4\"-6'4\". 1-yr warranty (+$84.99/1 yr or $129/2 yr extended). Lectric says 500+ partner shops."
+      - product: Canyon Precede:ON Comfort 5, Anchor Grey, Unisize (2025)
+        store: Canyon
+        price: 1099.00
+        regular_price: 3699.00
+        unit: count
+        unit_qty: 1
+        url: https://app.canyon.com/en-us/electric-bikes/electric-city-bike/precede-on/comfort/precede-on-comfort-5/3767.html?dwvar_3767_pv_rahmenfarbe=GY&dwvar_3767_pv_rahmengroesse=UNI
+        checked: 2026-11-28
+        sale_ends: null
+        notes: "Verified in Chrome: $1,099, 'Ships within 1-3 business days', free shipping, 30-day return, 6-yr warranty on Canyon-made parts (frame, fork, cockpit). Bosch Performance Line Sport mid-drive + PowerTube 500Wh, Shimano CUES 9-spd, Shimano MT200 hydraulic, carbon rigid fork, Schwalbe Big Ben Plus 2.15, suspension seatpost, 50.7 lb. Step-through, rider 5'3\"-6'5\". Class 3 pedal assist to 28 mph; no throttle listed (Bosch US bikes have none). Fenders/rack/lights per 99spokes, not seen on page. Bosch = most serviceable motor brand (CyclingAbout); any Bosch dealer can service."
     pick: null
