@@ -190,32 +190,31 @@ items:
     pick: Litter-Robot 4 Starter Bundle
 
   - id: exercise-bike
-    name: Exercise bike?
+    name: Exercise bike (recumbent)
     qty: 1
     category: black-friday
     status: researching
     budget: null
-    must_have: []
+    must_have: [recumbent]
     research: research/black-friday/exercise-bike.md
     options:
-      - product: Peloton Original Bike+, refurbished
-        store: Peloton
-        price: 995.00
-        regular_price: 1395.00
-        url: https://www.onepeloton.com/offers
-        checked: 2026-11-27
-        sale_ends: 2026-11-30
-        notes: All-Access membership required; no free month on refurb.
-      - product: Peloton Cross Training Bike
-        store: Peloton
-        price: 1295.00
-        regular_price: 1695.00
-        url: https://www.onepeloton.com/offers
+      - product: Schwinn 230 Recumbent Bike
+        store: Amazon
+        price: 499.00
+        regular_price: 599.00
+        url: https://www.amazon.com/dp/B087ZJK977
         checked: 2026-11-27
         sale_ends: null
-        notes: 1 free membership month; 0% APR 36 mo.
-    pick: Peloton refurbished Bike+
-
+        notes: BestReviews best of the best (20 levels, 22 programs). In stock, 4.2 stars / 1.9K. Con - display hard to read for some.
+      - product: Sunny Health & Fitness Smart Recumbent Bike
+        store: Amazon
+        price: 295.54
+        regular_price: 459.99
+        url: https://www.amazon.com/dp/B0D21149RD
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Budget. 4.5 stars / 8.4K. Only 14 left at check. Sunny recumbents picked by GGR and BestReviews (different models).
+    pick: Schwinn 230
   - id: phone-controller
     name: Phone controller
     qty: 1
@@ -435,13 +434,21 @@ items:
     name: Anti-sway hitch
     qty: 1
     category: black-friday
-    status: todo
+    status: researching
     budget: null
     must_have: [weight distribution, sway control]
     research: null
-    notes: "Escape forum: WDH optional for a 21 (loaded tongue ~450-500 lb); etrailer recommends Fastway e2 FA94-00-0600. Need tow vehicle. Sources: escapeforum.org f10 threads 18791, 21397; etrailer question-500650."
-    options: []
-    pick: null
+    notes: "Tow vehicle 2022 Ford Ranger (receiver 7,500 lb / 750 lb TW with 53R). Ford: WD not required. etrailer recommends WD + sway for Ranger with ~4,400 lb trailer (question-642779). Escape 21 tongue ~450-500 lb loaded."
+    options:
+      - product: Fastway e2 WD w/ sway control, round bar, 6,000 lb GTW / 600 lb TW (FA94-00-0600)
+        store: etrailer
+        price: 438.68
+        regular_price: 550.83
+        url: https://www.etrailer.com/Weight-Distribution/Fastway/FA94-00-0600.html
+        checked: 2026-11-27
+        sale_ends: null
+        notes: In stock, 184 reviews. 400-600 lb TW range fits Escape 21. etrailer's pick for Escape 21 (question-500650).
+    pick: Fastway e2 FA94-00-0600
   - id: bath-pillow
     name: Bath pillow
     qty: 1
