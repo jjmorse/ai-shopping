@@ -171,6 +171,25 @@ items:
         checked: 2026-11-26
         sale_ends: null
         notes: Bare new LR4 is $699 (no cut).
+      - product: Litter-Robot 4 Bundle (OdorTrap, cleaner wipes, drawer liners), Black/White
+        store: PetSmart
+        price: 724.99
+        regular_price: 799.99
+        url: https://www.petsmart.com/cat/litter-and-waste-disposal/litter-boxes/litter-robot4-automatic-cat-litter-box-bundle-with-odortrap-cleaner-wipes-and-waste-drawer-liners-82188.html
+        checked: 2026-11-28
+        sale_ends: 2026-11-29
+        notes: >-
+          Ship-to-home in stock. Plus $150 back as 75,000 Treats points on any Litter-Robot thru 11/29 (one-time).
+          Stack Rakuten 15% (elevated, was 2%; LR not excluded; no outside codes). Net ~$437 after Rakuten,
+          points, base points, 2% card. See research/black-friday/cashback-stacking.md.
+      - product: Litter-Robot 4 (bare), Black/White
+        store: PetSmart
+        price: 699.99
+        regular_price: null
+        url: https://www.petsmart.com/cat/litter-and-waste-disposal/litter-boxes/litter-robot-4-automatic-self-cleaning-cat-litter-box-by-whisker-80271.html
+        checked: 2026-11-28
+        sale_ends: 2026-11-29
+        notes: Same $150 points + Rakuten 15% stack. Price from PetSmart search results; open page to confirm stock.
     pick: null
 
   - id: exercise-bike

@@ -1,0 +1,288 @@
+list: cashback-2026
+title: Cashback stacking, Black Friday / Cyber Monday 2026
+source: null
+updated: 2026-11-28
+
+# One item per store/purchase. Each option is a ROUTE (portal + card), not a product.
+#   price         = estimated net cost after portal + card + store rewards (USD).
+#   regular_price = sticker price used for the math.
+#   url           = page where the rate was read (portal store page, CashbackMonitor, DoC).
+# Rates read 2026-11-28 (CashbackMonitor snapshot 2026-11-27). Portal rates change daily: recheck
+# right before clicking through. Only ONE portal per order counts (last click wins).
+# Card shorthand: Fidelity = Fidelity Rewards Visa 2% everywhere. Prime = Amazon Prime Visa.
+# Reasoning + card table: research/black-friday/cashback-stacking.md
+
+items:
+  - id: petsmart-litter-robot
+    name: Litter-Robot (PetSmart vs Whisker)
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: Rakuten 15% + PetSmart $150 points + Fidelity 2%
+        store: PetSmart
+        price: 437.00
+        regular_price: 724.99
+        url: https://www.rakuten.com/shop/petsmart
+        checked: 2026-11-28
+        sale_ends: 2026-11-29
+        notes: >-
+          LR4 bundle $724.99. Rakuten 15% (~$109, was 2%), $150 points thru 11/29, ~7,249 base points (~$14),
+          2% card (~$15). Points are PetSmart store credit. Microsoft Cashback only up to 8% here.
+      - product: Rakuten 12% + Fidelity 2%
+        store: Whisker (litter-robot.com)
+        price: 699.00
+        regular_price: 813.00
+        url: https://www.rakuten.com/shop/litter-robot
+        checked: 2026-11-28
+        sale_ends: null
+        notes: >-
+          LR4 starter bundle $813. Rakuten 12% (was 2%). Any coupon code not listed on Rakuten voids cash back,
+          so the MeowTested partner-link price can't stack. Microsoft only up to 5%.
+    pick: null
+
+  - id: home-depot-range
+    name: Home Depot (induction range)
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: Home Depot gift cards 15% off in Google Play app, paid with Fidelity 2%
+        store: Home Depot
+        price: 707.00
+        regular_price: 849.00
+        url: https://www.doctorofcredit.com/google-play-app-save-on-giftcards-for-starbucks-instacart-home-depot-lowes-uber-lyft-doordash-st-tarbucks-uber-chipotle-more/
+        checked: 2026-11-28
+        sale_ends: null
+        notes: >-
+          YMMV: Play app > Profile > Gift Cards > Deals. Some readers capped at 2-3 purchases. ~$127 off $849
+          plus 2% on the card. A portal on top adds ~1% (TopCashback) if paying with gift cards is allowed.
+      - product: Microsoft Cashback (up to 8%) + Fidelity 2%
+        store: Home Depot
+        price: 815.00
+        regular_price: 849.00
+        url: https://www.bing.com/shop/deals
+        checked: 2026-11-28
+        sale_ends: null
+        notes: >-
+          "Up to 8%" is category-based; appliances usually earn far less. Net assumes ~2%. Check the store's
+          rate table in Microsoft Cashback before buying. Rakuten has no Home Depot.
+    pick: null
+
+  - id: best-buy
+    name: Best Buy (appliances, Backbone controller)
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: Rakuten (6% Frigidaire/GE/Electrolux appliances, 4% LG appliances + Backbone) + free My Best Buy Plus 5% rewards + Fidelity 2%
+        store: Best Buy
+        price: 826.00
+        regular_price: 949.00
+        url: https://www.rakuten.com/shop/bestbuy
+        checked: 2026-11-28
+        sale_ends: 2026-12-06
+        notes: >-
+          Example: Frigidaire Gallery 30in 4-element induction $949 -> 6% + 5% + 2% = ~$123 back.
+          Free Plus membership offer ends 12/6 (YMMV, auto-renews; cancel). Whirlpool/KitchenAid only 1% on Rakuten.
+          Excluded: Apple, laptops, premium appliances, gift cards, installation, warranties, delivery.
+      - product: Microsoft Cashback (up to 12%) + Fidelity 2%
+        store: Best Buy
+        price: 0
+        regular_price: null
+        url: https://www.bing.com/shop/deals
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Up to 12% shown; category table not read (0 = unknown net). Compare to Rakuten's category before buying.
+    pick: null
+
+  - id: ebike-velotric
+    name: Velotric Discover 3 (ebike pick)
+    qty: 1
+    category: ebike
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: Microsoft Cashback (up to 7%) + Fidelity 2%
+        store: Velotric
+        price: 1728.00
+        regular_price: 1899.00
+        url: https://www.bing.com/shop/deals
+        checked: 2026-11-28
+        sale_ends: null
+        notes: ~$133 + $38 if the full 7% applies. Velotric is not on Rakuten.
+      - product: TopCashback 5.05% + Fidelity 2%
+        store: Velotric
+        price: 1765.00
+        regular_price: 1899.00
+        url: https://www.cashbackmonitor.com/cashback-store/velotric/
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Fallback if Microsoft's rate for bikes is lower. BeFrugal 5.15% similar.
+    pick: null
+
+  - id: ebike-others
+    name: Other ebike brands on the shortlist
+    qty: 1
+    category: ebike
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: Aventon via Rakuten 2% + Fidelity 2%
+        store: Aventon
+        price: 1727.00
+        regular_price: 1799.00
+        url: https://www.cashbackmonitor.com/cashback-store/aventon/
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Not on Microsoft Cashback.
+      - product: Heybike via Microsoft up to 3% (MaxRebates 5.85%, Rakuten 2.5%) + Fidelity 2%
+        store: Heybike
+        price: 1424.00
+        regular_price: 1499.00
+        url: https://www.cashbackmonitor.com/cashback-store/heybike/
+        checked: 2026-11-28
+        sale_ends: null
+        notes: null
+      - product: Canyon via TopCashback 4.04% + Fidelity 2%
+        store: Canyon
+        price: 1033.00
+        regular_price: 1099.00
+        url: https://www.cashbackmonitor.com/cashback-store/canyon/
+        checked: 2026-11-27
+        sale_ends: null
+        notes: null
+      - product: Lectric / Ride1Up / Trek - no portal found; Fidelity 2% only
+        store: Lectric eBikes
+        price: 1077.00
+        regular_price: 1099.00
+        url: https://www.cashbackmonitor.com/
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Not on Rakuten, Microsoft, or CashbackMonitor (Trek only CouponFollow 2.5%).
+    pick: null
+
+  - id: filament
+    name: Filament (AliExpress / Amazon / Elegoo)
+    qty: 1
+    category: 3d-printing
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: AliExpress via Rakuten 14% (Microsoft up to 15%) + Fidelity 2%
+        store: AliExpress
+        price: 56.00
+        regular_price: 66.00
+        url: https://www.rakuten.com/search?term=aliexpress
+        checked: 2026-11-28
+        sale_ends: null
+        notes: >-
+          $66 = filament note's JAYO + Geeetech order before shipping. Rakuten 14% is flat (was 2%);
+          Microsoft "up to 15%" may vary by category, so Rakuten is the safer pick.
+      - product: Amazon with Prime Visa 5%
+        store: Amazon
+        price: 71.51
+        regular_price: 75.27
+        url: https://www.amazon.com/
+        checked: 2026-11-28
+        sale_ends: null
+        notes: Sunlu silk 4 kg + Elegoo black 4 kg runner-up. No portal pays on Amazon (Rakuten $0).
+      - product: Elegoo direct via TopCashback 5.05% + Fidelity 2%
+        store: Elegoo US
+        price: 0
+        regular_price: null
+        url: https://www.cashbackmonitor.com/cashback-store/elegoo/
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Microsoft up to 5%, Rakuten 2%. Use only if buying from elegoo.com.
+    pick: null
+
+  - id: walmart
+    name: Walmart (socks, misc)
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: Capital One Shopping 19.5-20% (targeted) + Fidelity 2%
+        store: Walmart
+        price: 24.24
+        regular_price: 31.08
+        url: https://www.doctorofcredit.com/capital-one-shopping-offers-get-18-20-back-at-walmart/
+        checked: 2026-11-28
+        sale_ends: null
+        notes: >-
+          Example: Hanes 12-pack $31.08. No Capital One card needed; paid as gift cards; $1,000 cap; max 10 items/order.
+          Excludes pets, personal care, household essentials, groceries, Apple, wireless, gift cards. Rakuten pays $0 at Walmart.
+    pick: null
+
+  - id: target
+    name: Target
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: TopCashback 2% + Target Circle Card 5% off
+        store: Target
+        price: 0
+        regular_price: null
+        url: https://www.cashbackmonitor.com/cashback-store/target/
+        checked: 2026-11-27
+        sale_ends: null
+        notes: ~7% total. Rakuten base 1% (shows a targeted 7.5% offer if you have it).
+    pick: null
+
+  - id: streaming
+    name: Streaming sign-ups
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: []
+    research: research/black-friday/cashback-stacking.md
+    options:
+      - product: Disney+ via Rakuten or Microsoft (up to $15) + Fidelity 2%
+        store: Disney+
+        price: 0
+        regular_price: null
+        url: https://www.rakuten.com/search?term=disney%2B
+        checked: 2026-11-28
+        sale_ends: 2026-11-30
+        notes: Unclear whether the $4.99 Black Friday plan qualifies; treat as bonus. Discover Q4 excludes streaming.
+      - product: Paramount+ via Rakuten (up to $4.50) + Fidelity 2%
+        store: Paramount+
+        price: 0
+        regular_price: null
+        url: https://www.rakuten.com/search?term=paramount%2B
+        checked: 2026-11-28
+        sale_ends: 2026-11-30
+        notes: The Slickdeals promo code may void portal credit (non-portal codes usually do).
+      - product: Costco eGift cards (Netflix/Paramount+) on Costco Citi 2%
+        store: Costco
+        price: 0
+        regular_price: null
+        url: https://www.costco.com/p/-/netflix---one-100-egift-card/4201067705
+        checked: 2026-11-27
+        sale_ends: null
+        notes: 10-20% off + 2% Costco Citi.
+    pick: null
