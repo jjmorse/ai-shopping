@@ -400,3 +400,116 @@ items:
     research: null
     options: []
     pick: null
+
+  - id: streaming
+    name: Streaming services (Disney+/Hulu, Netflix, Paramount+)
+    qty: 1
+    category: black-friday
+    status: researching
+    budget: null
+    must_have: [Disney+ and Hulu priority]
+    research: research/black-friday/streaming.md
+    # price = total cost for the promo term; unit_qty = months in that term.
+    # Promos end 11:59 PM PT Nov 30 = 12:59 AM MT Dec 1 (Disney); HBO Max/Paramount+ say "ends 11/30/26".
+    options:
+      - product: Disney+, Hulu Bundle (with ads), Black Friday
+        store: Disney+
+        price: 59.88
+        regular_price: 155.88
+        unit: month
+        unit_qty: 12
+        url: https://www.disneyplus.com/explore/articles/disney-plus-hulu-black-friday-deal
+        checked: 2026-11-27
+        sale_ends: 2026-11-30
+        notes: $4.99/mo x 12, then $12.99/mo. New + eligible returning only; current Disney+/Hulu/ESPN/bundle subs excluded. Not redeemable by gift card. No ESPN.
+      - product: Disney+, Hulu Bundle Premium (no ads), Black Friday
+        store: Disney+
+        price: 179.88
+        regular_price: 263.88
+        unit: month
+        unit_qty: 12
+        url: https://www.disneyplus.com/explore/articles/disney-plus-hulu-black-friday-deal
+        checked: 2026-11-27
+        sale_ends: 2026-11-30
+        notes: $14.99/mo x 12, then $21.99/mo. Same eligibility. Ads still on live/linear content.
+      - product: HBO Max Basic with Ads, Black Friday (stack with Disney+/Hulu deal)
+        store: HBO Max
+        price: 65.88
+        regular_price: 131.88
+        unit: month
+        unit_qty: 12
+        url: https://www.hbomax.com/a/black-friday-2026-terms
+        checked: 2026-11-27
+        sale_ends: 2026-11-30
+        notes: $5.49/mo x 12, then $10.99/mo. New + returning via hbomax.com. With Disney+/Hulu deal = $10.48/mo vs $21.99/mo trio bundle.
+      - product: Disney+, Hulu, HBO Max Bundle (with ads), regular price
+        store: Disney+
+        price: 263.88
+        regular_price: 263.88
+        unit: month
+        unit_qty: 12
+        url: https://www.disneyplus.com/welcome/disney-hulu-hbo-max-bundle
+        checked: 2026-11-27
+        sale_ends: null
+        notes: $21.99/mo; no-ads $34.99/mo. No Black Friday discount. Comparison only.
+      - product: Disney+, Hulu, ESPN Unlimited Bundle (with ads), regular price
+        store: Disney+
+        price: 431.88
+        regular_price: 431.88
+        unit: month
+        unit_qty: 12
+        url: https://www.disneyplus.com/disney-bundle
+        checked: 2026-11-27
+        sale_ends: null
+        notes: $35.99/mo; Premium $44.99/mo. ESPN is NOT in the Black Friday deal (per Disney FAQ). Comparison only.
+      - product: Paramount+ Essential (with ads), Black Friday
+        store: Paramount+
+        price: 5.98
+        regular_price: 17.98
+        unit: month
+        unit_qty: 2
+        url: https://www.paramountplus.com/
+        checked: 2026-11-27
+        sale_ends: 2026-11-30
+        notes: $2.99/mo x 2, then $8.99/mo. New + eligible former subs, monthly plans only.
+      - product: Paramount+ Premium (ad-free), Black Friday
+        store: Paramount+
+        price: 5.98
+        regular_price: 27.98
+        unit: month
+        unit_qty: 2
+        url: https://www.paramountplus.com/
+        checked: 2026-11-27
+        sale_ends: 2026-11-30
+        notes: $2.99/mo x 2, then $13.99/mo. Same price as Essential during promo, so pick Premium. Live TV has ads.
+      - product: Paramount+ Premium (ad-free), annual, promo code 712ZCSHH80Q
+        store: Paramount+
+        price: 69.99
+        regular_price: 139.99
+        unit: month
+        unit_qty: 12
+        url: https://slickdeals.net/f/20398938-paramount-plus-premium-ad-free-for-69-99
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Lead from Slickdeals (posted 2026-11-25), not on Paramount's page. "Select" new/returning accounts; pick Annual tab + Premium, enter code at checkout. Comments mixed (works for some, "invalid" for others). Billed upfront, renews at regular annual price. Beats monthly promo if keeping 12 months.
+      - product: Paramount+ $100 eGift card
+        store: Costco
+        price: 79.99
+        regular_price: 100.00
+        unit: count
+        unit_qty: 1
+        url: https://www.costco.com/p/-/paramount---one-100-egift-card/4201054946
+        checked: 2026-11-27
+        sale_ends: null
+        notes: 20% off Paramount+ at full price. Member-only. Use after the promo ends if keeping it.
+      - product: Netflix $100 eGift card
+        store: Costco
+        price: 89.99
+        regular_price: 100.00
+        unit: count
+        unit_qty: 1
+        url: https://www.costco.com/p/-/netflix---one-100-egift-card/4201067705
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Only Netflix discount found (10%). Netflix has no Black Friday plan deal. Credit applies to existing account.
+    pick: null
