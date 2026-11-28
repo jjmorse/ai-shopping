@@ -94,6 +94,14 @@ items:
     must_have: [30-inch, induction]
     research: research/black-friday/induction-range.md
     options:
+      - product: Frigidaire Gallery GCFI3060BF 30" freestanding induction, air fry
+        store: Best Buy
+        price: 1399.99
+        regular_price: null
+        url: https://www.bestbuy.com/product/frigidaire-gallery-30-in-wide-5-elements-6-2-cu-ft-freestanding-electric-induction-total-convection-range-with-self-cleaning-stainless-steel/J7CJ3RCV2Z/sku/6549699
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Live price 2026-11-27. Home Depot $849 lead unverified (HD error page).
       - product: Frigidaire Gallery 30" freestanding induction, air fry, total convection
         store: Home Depot
         price: 849.00
@@ -110,7 +118,7 @@ items:
         checked: 2026-11-26
         sale_ends: 2026-12-02
         notes: Full package price after $1,300 mail-in rebates; only if replacing whole kitchen.
-    pick: null
+    pick: Frigidaire Gallery GCFI3060BF (confirm $849 at Home Depot)
 
   - id: microwave
     name: Microwave
@@ -160,7 +168,7 @@ items:
         price: 813.00
         regular_price: 963.00
         url: https://www.whisker.com/bundles
-        checked: 2026-11-26
+        checked: 2026-11-27
         sale_ends: null
         notes: MeowTested saw $763 in cart via partner link.
       - product: Litter-Robot 5 Starter Bundle
@@ -179,7 +187,7 @@ items:
         checked: 2026-11-26
         sale_ends: null
         notes: Bare new LR4 is $699 (no cut).
-    pick: null
+    pick: Litter-Robot 4 Starter Bundle
 
   - id: exercise-bike
     name: Exercise bike?
@@ -195,18 +203,18 @@ items:
         price: 995.00
         regular_price: 1395.00
         url: https://www.onepeloton.com/offers
-        checked: 2026-11-26
-        sale_ends: null
+        checked: 2026-11-27
+        sale_ends: 2026-11-30
         notes: All-Access membership required; no free month on refurb.
       - product: Peloton Cross Training Bike
         store: Peloton
         price: 1295.00
         regular_price: 1695.00
         url: https://www.onepeloton.com/offers
-        checked: 2026-11-26
+        checked: 2026-11-27
         sale_ends: null
         notes: 1 free membership month; 0% APR 36 mo.
-    pick: null
+    pick: Peloton refurbished Bike+
 
   - id: phone-controller
     name: Phone controller
@@ -221,8 +229,8 @@ items:
         store: Amazon
         price: 119.99
         regular_price: 169.99
-        url: https://link.amazon/B0eOfvgrN
-        checked: 2026-11-26
+        url: https://www.amazon.com/dp/B0DQM23MLZ
+        checked: 2026-11-27
         sale_ends: null
         notes: All-time low; USB-C + Bluetooth; iPhone 15+/Android.
       - product: Razer Kishi V3
@@ -230,7 +238,7 @@ items:
         price: 59.99
         regular_price: 99.99
         url: https://www.amazon.com/dp/B0F233Y5YL
-        checked: 2026-11-26
+        checked: 2026-11-27
         sale_ends: null
         notes: $1 above all-time low.
       - product: Backbone One (2nd gen)
@@ -241,13 +249,13 @@ items:
         checked: 2026-11-26
         sale_ends: null
         notes: "From $60."
-    pick: null
+    pick: Backbone Pro
 
   - id: domain-transfer
     name: Domain transfer
     qty: 1
     category: black-friday
-    status: researching
+    status: decided
     budget: null
     must_have: [.com]
     research: research/black-friday/domain-transfer.md
@@ -276,7 +284,7 @@ items:
         checked: 2026-11-26
         sale_ends: null
         notes: Renews at cost $11.17; no sale needed.
-    pick: null
+    pick: Porkbun (Josh decided)
 
   - id: trailer-lock
     name: Trailer lock
