@@ -28,6 +28,7 @@ CLAUDE.md               Conventions for AI agents working in this repo.
 - [Black Friday 2026](lists/black-friday-2026.yaml)
 - [3D printing filament](lists/filament.yaml)
 - [Ebike](lists/ebike.yaml)
+- [Cashback routes, BF/CM 2026](lists/cashback-2026.yaml)
 
 ## Data format
 
