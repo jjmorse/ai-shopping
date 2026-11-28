@@ -66,7 +66,7 @@ items:
         url: https://www.heybike.com/products/venus
         checked: 2026-11-27
         sale_ends: null
-        notes: "Heybike page shows $1,499 + BF free gift box; no discount visible. 9to5Toys/EBR (affiliate) advertise $999 with codes 9T5T500 / EBR500 - unverified on retailer page, try at checkout. 680Wh removable (per PopSci), Shimano Altus 8, hydraulic 180mm, 50 lb. 2-yr limited warranty (direct only; page also says frame/motor/controller/display covered only 1 week - ambiguous). No Venus spare battery listed. Heybike admitted 2024 support backlog and 10-20 day parts waits 'due to stock issues'."
+        notes: "2026-11-28 Chrome: /products/venus $1,499; separate /products/venus-deal page shows $1,399. Heybike page shows $1,499 + BF free gift box; no discount visible. 9to5Toys/EBR (affiliate) advertise $999 with codes 9T5T500 / EBR500 - unverified on retailer page, try at checkout. 680Wh removable (per PopSci), Shimano Altus 8, hydraulic 180mm, 50 lb. 2-yr limited warranty (direct only; page also says frame/motor/controller/display covered only 1 week - ambiguous). No Venus spare battery listed. Heybike admitted 2024 support backlog and 10-20 day parts waits 'due to stock issues'."
       - product: Aventon Level 4 REC, certified refurbished (size S, 3 mi, 2026)
         store: Upway
         price: 1549.00
@@ -127,4 +127,14 @@ items:
         checked: 2026-11-27
         sale_ends: null
         notes: "'From' price on collection page (summary-read), size/color unverified; $100 over budget. Specialized mid-drive + dealer network, but proprietary system. Collection link only."
+      - product: Lectric XPress Lite, Toasted Marshmallow (27.5" hybrid, mid-step)
+        store: Lectric eBikes
+        price: 1099.00
+        regular_price: null
+        unit: count
+        unit_qty: 1
+        url: https://lectricebikes.com/products/xpress-lite-tan-ebike
+        checked: 2026-11-28
+        sale_ends: null
+        notes: "Verified in Chrome: 'IN STOCK - ALMOST GONE'. New model. 500W hub (864W peak), removable 374Wh battery (small; up to 45 mi, less in cold), Shimano Altus 8, hydraulic 180mm, rigid fork, 27.5x1.95 slicks, ~52 lb. Rider 5'4\"-6'4\". 1-yr warranty (+$84.99/1 yr or $129/2 yr extended). Lectric says 500+ partner shops."
     pick: null

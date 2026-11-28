@@ -3,6 +3,17 @@
 Data: [`lists/ebike.yaml`](../../lists/ebike.yaml) → item `commuter-ebike`
 Checked: 2026-11-27
 
+## Already owned (learned 2026-11-27)
+
+Josh has a **RadMission** and likes it. Wants hybrid style, not fat tire; eyeing ~$1k.
+- CPSC warning (Nov 2025) covers Rad battery models RP-1304, RAD-S1304Y, HL-RP-S1304 sold with RadWagon 4,
+  RadCity HS 4 / ST 3, RadRover HS 5 / ST 1, RadRunner 1/2/Plus, RadExpand 5. **RadMission is not listed** —
+  still check the battery label for those model numbers.
+- Rad Life Mobility (new owner) still sells RadMission parts on radpowerbikes.com (headlight $45, seat $45,
+  fenders $29 out of stock) and lists a RadMission battery pack on radpowerbikes.ca ($599 CAD). No US battery
+  listing found. No warranty for bikes bought before Dec 15, 2025.
+- RadMission is a simple single-speed hub bike; keeping it running is likely the cheapest repairable option.
+
 ## Need
 
 Commute + errands (Josh picked "Commute/errands, under $2,000"). Must have a record of repairability:
