@@ -313,27 +313,37 @@ items:
     must_have: [black, crew, mostly cotton]
     research: null
     options:
-      - product: Hanes Ultimate Men's Crew Socks 12-pack, black, 6-12
-        store: Walmart
-        price: 31.08
+      - product: GOLDTOE Men's 656S Cotton Crew, Black, 6 pairs, Large
+        store: Amazon
+        price: 14.99
         regular_price: null
+        unit: count
+        unit_qty: 6
+        url: https://www.amazon.com/dp/B0002TOZ1O
+        checked: 2026-11-27
+        sale_ends: null
+        notes: $2.50/pair. 76% cotton, 13% nylon, 8% poly, 3% spandex. In stock, 4.6 stars / 69K. 12-pair (B07HNVVPT4) is $35.18, worse per pair.
+      - product: Hanes Men's Absolute Active Cushioned Crew, 4-pack
+        store: Amazon
+        price: 11.24
+        regular_price: null
+        unit: count
+        unit_qty: 4
+        url: https://www.amazon.com/dp/B0DGB3M7F2
+        checked: 2026-11-27
+        sale_ends: null
+        notes: $2.81/pair. 83% cotton. Confirm black is selected. 4.6 stars / 258.
+      - product: Hanes Ultimate Men's Crew 12-pack, black, 6-12
+        store: Walmart
+        price: 20.00
+        regular_price: 29.00
         unit: count
         unit_qty: 12
         url: https://www.walmart.com/ip/616029218
-        checked: 2026-11-26
+        checked: 2026-11-27
         sale_ends: null
-        notes: ~$2.59/pair. Listed 100% cotton but description mentions spandex; mostly cotton.
-      - product: Hanes Double Tough Crew 12-pack, black
-        store: Walmart
-        price: 12.73
-        regular_price: null
-        unit: count
-        unit_qty: 12
-        url: https://slickdeals.net/f/19214092-hanes-men-s-double-tough-durability-crew-socks-12-pack-in-white-or-black-12-98-walmart-size-6-12-or-12-14-large-feet-same-price
-        checked: 2026-11-26
-        sale_ends: null
-        notes: ~$1.06/pair. Cotton blend, % not stated; verify cotton majority.
-    pick: null
+        notes: OUT OF STOCK 2026-11-27. $1.67/pair if it returns. Hanes Double Tough dropped (34% cotton).
+    pick: GOLDTOE 656S Black 6-pair
   - id: slipper-socks
     name: Slipper socks
     qty: 1
@@ -377,14 +387,14 @@ items:
     must_have: [cordless]
     research: null
     options:
-      - product: Black+Decker Dustbuster
+      - product: BLACK+DECKER dustbuster 12V HHVI320JR02
         store: Amazon
-        price: 39.99
-        regular_price: null
+        price: 37.99
+        regular_price: 44.99
         url: https://www.amazon.com/dp/B01DAI5CF6
-        checked: 2026-11-26
+        checked: 2026-11-27
         sale_ends: null
-        notes: Price from Sep 2025 article; 2026 price not confirmed.
+        notes: In stock, 18.5K reviews. Not yet compared with a bare-tool vac for a battery platform Josh may own.
     pick: null
 
   - id: hose
@@ -406,5 +416,6 @@ items:
     budget: null
     must_have: [weight distribution, sway control]
     research: null
+    notes: "Escape forum: WDH optional for a 21 (loaded tongue ~450-500 lb); etrailer recommends Fastway e2 FA94-00-0600. Need tow vehicle. Sources: escapeforum.org f10 threads 18791, 21397; etrailer question-500650."
     options: []
     pick: null
