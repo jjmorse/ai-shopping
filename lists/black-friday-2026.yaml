@@ -401,13 +401,28 @@ items:
     name: Hose
     qty: 1
     category: black-friday
-    status: todo
+    status: researching
     budget: null
-    must_have: []
+    must_have: [garden hose, 50 ft, kink resistant]
     research: null
-    options: []
-    pick: null
-
+    options:
+      - product: Flexzilla 5/8 in. x 50 ft hybrid polymer garden hose
+        store: Amazon
+        price: 39.97
+        regular_price: null
+        url: https://www.amazon.com/dp/B003TFE7ZM
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Pick in 4 test roundups (Reviewed, HGTV, Bob Vila, This Old House). Rated -40 to 140 F; stayed supple in low 40s (Bob Vila). Can kink when pulled taut but unkinks itself (Reviewed). 4.3 stars / 103K. Home Depot same ~$39. No BF discount seen.
+      - product: Teknor Apex zero-G 5/8 in. x 50 ft
+        store: Amazon
+        price: 49.98
+        regular_price: null
+        url: https://www.amazon.com/dp/B0DHSRK8YQ
+        checked: 2026-11-27
+        sale_ends: null
+        notes: Bob Vila best overall; "refused to kink" even knotted. Reviewed notes not for outdoor winter storage in freezing climates; store inside. 4.2 stars / 9.3K.
+    pick: Flexzilla 5/8 x 50 ft
   - id: anti-sway-hitch
     name: Anti-sway hitch
     qty: 1
