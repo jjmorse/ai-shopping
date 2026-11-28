@@ -1,0 +1,150 @@
+list: ebike
+title: Ebike
+source: null
+updated: 2026-11-27
+
+items:
+  - id: commuter-ebike
+    name: Commuter / errand ebike, repairable
+    qty: 1
+    category: ebike
+    status: researching
+    budget: 2000
+    must_have:
+      - commute/errands use
+      - track record of repairability (standard parts, spare batteries sold, brand still solvent)
+      - removable battery (charge/store indoors in Colorado winter)
+      - under $2,000
+    research: research/ebike/commuter-ebike.md
+    options:
+      - product: Aventon Level 4 REC (step-over; step-through also $1,799)
+        store: Aventon
+        price: 1799.00
+        regular_price: 1999.00
+        unit: count
+        unit_qty: 1
+        url: https://www.aventon.com/products/level-4-rec-ebike
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "$200 off (new-releases page). Electrek/EBR (affiliate) say free suspension seatpost + folding lock included; no code needed. 750W hub, removable 733Wh LG-cell battery, Shimano Altus 8-spd, Tektro hydraulic 180mm 6-bolt rotors. 2-yr warranty + lifetime frame. 2,000+ partner shops for service. Extra battery $499 (fit not confirmed on page). Per-size stock not shown; buy-box price read from page tables, re-check at checkout."
+      - product: Trek FX+ 2 Stagger, Blue Sage
+        store: Trek
+        price: 1599.93
+        regular_price: 2499.99
+        unit: count
+        unit_qty: 1
+        url: https://trekbikes.com/us/en_US/p/35843
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Regular is Trek's 'Comp. Value'. Stagger = low/step frame (check photos vs. preference). Trek-proprietary 250W/40Nm hub, 250Wh integrated battery (small; removability not stated) + optional 250Wh range extender. Shimano 9-spd, hydraulic disc, lights/fenders/rack. Best local dealer support (Trek stores in Denver metro). Stock not stated on page."
+      - product: Lectric XP4 750, Tempest Grey (folding, step-over)
+        store: Lectric eBikes
+        price: 1299.00
+        regular_price: 1831.00
+        unit: count
+        unit_qty: 1
+        url: https://lectricebikes.com/products/xp-black-long-range
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "'IN STOCK: ALMOST GONE'. 750W hub, 840Wh battery, 602 hydraulic brakes, 1-yr warranty, UL 2849. Folding, ~71 lb. Spare battery $350 (was $575): https://lectricebikes.com/products/xp4-750-spare-battery. Parts store mostly batteries/chargers/tires; no dealer network. Best Buy lists same bike ~$1,664 (with accessories)."
+      - product: Ride1Up Vorsa (Lite $1,345 / Standard $1,445 / FT $1,595)
+        store: Ride1Up
+        price: 1345.00
+        regular_price: 1495.00
+        unit: count
+        unit_qty: 1
+        url: https://ride1up.com/product/vorsa/
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "$1,345 is Vorsa Lite; Standard is $1,445 (reg $1,595) per 9to5Toys/Electrek 2026-11-12 (affiliate). Accessories up to 40% off. Price from 'From $1,345 / $1,495' upsell on the battery page; product page price widget didn't render (BF banner 'up to $150 off'). In stock. 750W AKM hub, removable 720Wh Samsung battery, Shimano Acera 8-spd, Star Union hydraulic 203/180mm. 1-yr warranty. Spare battery $475. Owner reviews: replacement parts shipped next day. 65 lb."
+      - product: Heybike Venus, 750W (Rose Gold / Pearl White / Titanium Grey)
+        store: Heybike
+        price: 1499.00
+        regular_price: null
+        unit: count
+        unit_qty: 1
+        url: https://www.heybike.com/products/venus
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "2026-11-28 Chrome: /products/venus $1,499; separate /products/venus-deal page shows $1,399. Heybike page shows $1,499 + BF free gift box; no discount visible. 9to5Toys/EBR (affiliate) advertise $999 with codes 9T5T500 / EBR500 - unverified on retailer page, try at checkout. 680Wh removable (per PopSci), Shimano Altus 8, hydraulic 180mm, 50 lb. 2-yr limited warranty (direct only; page also says frame/motor/controller/display covered only 1 week - ambiguous). No Venus spare battery listed. Heybike admitted 2024 support backlog and 10-20 day parts waits 'due to stock issues'."
+      - product: Aventon Level 4 REC, certified refurbished (size S, 3 mi, 2026)
+        store: Upway
+        price: 1549.00
+        regular_price: 1999.00
+        unit: count
+        unit_qty: 1
+        url: https://upway.co/products/aventon-level-4-rec-rk8sm2
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Only one, size S only (check fit). Battery 'Excellent', light scratches. Upway 1-yr warranty + 14-day test ride (not Aventon's 2-yr). $250 under new."
+      - product: Aventon Level 4 REC (step-over L in stock; step-through M/L)
+        store: Mike's Bikes
+        price: 1799.00
+        regular_price: 1999.00
+        unit: count
+        unit_qty: 1
+        url: https://mikesbikes.com/collections/bikes/products/aventon-level-4-rec-ebike-2027
+        checked: 2026-11-27
+        sale_ends: 2026-11-30
+        notes: "Same price as Aventon direct; step-over M sold out. Rewards up to $400 on $250+ spend through 11/30 (store credit, not cash). CA-based chain; shipping to CO not confirmed."
+      - product: Velotric Breeze 1 (cruiser/commuter) + free spare battery
+        store: Velotric
+        price: 1699.00
+        regular_price: 1799.00
+        unit: count
+        unit_qty: 1
+        url: https://www.velotricbike.com/collections/ebikes-on-sale
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "In stock. Free battery + mirror. Velotric warranty 2 yr + 1 yr free with registration. Also Discover 3 commuter $1,899 (free bag/mirror), Tempo $1,399. Removable battery + specs not verified on model pages. Codes can't combine; BF pricing online only."
+      - product: Velotric Discover 3 (step-through commuter)
+        store: Velotric
+        price: 1899.00
+        regular_price: 1999.00
+        unit: count
+        unit_qty: 1
+        url: https://velotricbike.com/products/velotric-discover-3-commuter-ebike
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "750W hub, 730Wh Samsung/LG battery (removable; spare sold; Discover 2/3 batteries interchangeable after firmware update), Shimano 8-spd, Tektro hydraulic 180mm. Warranty 2 yr, battery/electrical 3 yr + frame 10 yr with registration. 1,600+ partner shops; Longmont Bicycle Company (Longmont CO) is a Velotric showcase/service shop. 61 lb. Velotric ~6 yrs old, VC-funded, private."
+      - product: Monarc Marker (fat tire, 2 batteries)
+        store: Monarc
+        price: 1999.00
+        regular_price: null
+        unit: count
+        unit_qty: 1
+        url: https://riderguide.com/reviews/monarc-marker/
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "Price from RiderGuide review (affiliate), not Monarc page. Bafang 750W hub, two removable 720Wh packs, Shimano Cues 9, 4-piston hydraulic. 5-yr warranty (battery 1 yr). Lectric-owned. 88 lb fat tire: snow-capable but heavy for commuting."
+      - product: Specialized Turbo Vado 3.0 Active (mid-drive)
+        store: Bicycle Warehouse
+        price: 2099.99
+        regular_price: 3000.00
+        unit: count
+        unit_qty: 1
+        url: https://bicyclewarehouse.com/collections/electric-bikes-on-sale?page=1
+        checked: 2026-11-27
+        sale_ends: null
+        notes: "'From' price on collection page (summary-read), size/color unverified; $100 over budget. Specialized mid-drive + dealer network, but proprietary system. Collection link only."
+      - product: Lectric XPress Lite, Toasted Marshmallow (27.5" hybrid, mid-step)
+        store: Lectric eBikes
+        price: 1099.00
+        regular_price: null
+        unit: count
+        unit_qty: 1
+        url: https://lectricebikes.com/products/xpress-lite-tan-ebike
+        checked: 2026-11-28
+        sale_ends: null
+        notes: "Verified in Chrome: 'IN STOCK - ALMOST GONE'. New model. 500W hub (864W peak), removable 374Wh battery (small; up to 45 mi, less in cold), Shimano Altus 8, hydraulic 180mm, rigid fork, 27.5x1.95 slicks, ~52 lb. Rider 5'4\"-6'4\". 1-yr warranty (+$84.99/1 yr or $129/2 yr extended). Lectric says 500+ partner shops."
+      - product: Canyon Precede:ON Comfort 5, Anchor Grey, Unisize (2025)
+        store: Canyon
+        price: 1099.00
+        regular_price: 3699.00
+        unit: count
+        unit_qty: 1
+        url: https://app.canyon.com/en-us/electric-bikes/electric-city-bike/precede-on/comfort/precede-on-comfort-5/3767.html?dwvar_3767_pv_rahmenfarbe=GY&dwvar_3767_pv_rahmengroesse=UNI
+        checked: 2026-11-28
+        sale_ends: null
+        notes: "Verified in Chrome: $1,099, 'Ships within 1-3 business days', free shipping, 30-day return, 6-yr warranty on Canyon-made parts (frame, fork, cockpit). Bosch Performance Line Sport mid-drive + PowerTube 500Wh, Shimano CUES 9-spd, Shimano MT200 hydraulic, carbon rigid fork, Schwalbe Big Ben Plus 2.15, suspension seatpost, 50.7 lb. Step-through, rider 5'3\"-6'5\". Class 3 pedal assist to 28 mph; no throttle listed (Bosch US bikes have none). Fenders/rack/lights per 99spokes, not seen on page. Bosch = most serviceable motor brand (CyclingAbout); any Bosch dealer can service."
+    pick: null
